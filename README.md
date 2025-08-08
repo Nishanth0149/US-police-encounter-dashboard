@@ -38,6 +38,9 @@ This project analyzes police encounter data from the United States for the years
 - Supports deeper exploration of potential trends in fatal police encounters.
 
 ---
+###  Dashboard Report (PDF)
+
+[View or Download the Full Dashboard Report](https://github.com/Nishanth0149/US-police-encounter-dashboard/blob/main/Dashboard.pdf?raw=true)
 
 ## 👨‍💻 Author
 
