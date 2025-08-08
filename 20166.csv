@@ -1,0 +1,1081 @@
+uid,me,age,gender,Race Code,Armed Status,month,day,year,Address,latitude,longitude,Class_Code,lawenforcementagency
+20161,Joshua Sisson,30,Male,RC2,Stat_5,January,1,2016,4200 6th Ave_San Diego_CA,32.7545083,-117.1596483,B,PD_0306
+20162,Germonta Wallace,30,Male,RC1,Stat_2,January,3,2016,2600 Watson Dr_Charlotte_NC,35.218426,-80.8854279,B,PD_0129
+20163,Sean O'Brien,37,Male,RC2,Stat_5,January,2,2016,100 Washington St_Livingston_MT,45.655904,-110.5732979,B,PD_0783
+20164,Rodney Turner,22,Male,RC1,Stat_2,January,4,2016,3600 NW 42nd St_Oklahoma City_OK,35.5142868,-97.5816184,B,PD_0097
+20165,Eric Senegal,27,Male,RC1,Stat_7,January,4,2016,Gene Stanley Rd_Ragley_LA,30.493824,-93.2076083,B,PD_0784
+20166,David Zollo,54,Male,RC2,Stat_5,January,5,2016,151 S Bishop Ave_Clifton Heights_PA,39.9229285,-75.3080442,B,PD_0785
+20167,Joel Nelson,29,Male,RC2,Stat_1,January,5,2016,93rd Ave SE_Olympia_WA,46.9527293,-122.8917323,B,PD_0751
+20168,Stephen Bukwich,52,Male,RC2,Stat_2,January,5,2016,200 Boulder Creek Dr_Redding_CA,40.613656,-122.369757,B,PD_0786
+20169,Charles Hollstein,38,Male,RC2,Stat_3,January,6,2016,2000 Ezekiel Ave_Zion_IL,42.458637,-87.836098,B,PD_0248
+201610,Albert Thompson,28,Male,RC3,Stat_4,January,5,2016,2601 Don Pedro Rd_Ceres_CA,37.584059,-120.947469,B,PD_0232
+201611,James Maher,39,Male,RC2,Stat_5,January,5,2016,Mary St_Johnson City_TN,36.3026375,-82.3790824,B,PD_0787
+201612,Alan Franco-Armenta,32,Male,RC3,Stat_2,January,7,2016,US-380_Carrizozo_NM,33.6468627,-105.8721849,B,PD_0250
+201613,Kenneth Clay,34,Male,RC2,Stat_2,January,7,2016,_Owensboro_KY,,,B,PD_0788
+201614,David Kent,37,Male,RC2,Stat_4,January,9,2016,8900 Rose Valley Rd_Kelso_WA,46.1601146,-122.6688672,B,PD_0789
+201615,Christine Lucas,45,Female,RC2,Stat_3,January,10,2016,600 Lombard Rd_Rising Sun_MD,39.7176554,-75.958603,B,PD_0158
+201616,Andrew Aberthy,50,Male,RC2,Stat_2,January,8,2016,4500 Bartow Carver Rd SE_Acworth_GA,34.1327969,-84.67653,B,PD_0490
+201617,Eric Olsen,26,Male,RC2,Stat_5,January,8,2016,3800 Lincoln Dr_Lake Geneva_WI,42.6092294,-88.4880704,B,PD_0790
+201618,Robert Tenbrink,45,Male,RC2,Stat_3,January,11,2016,Rapid Run Rd and Sunset Ave_Cincinti_OH,39.1183448,-84.5852806,B,PD_0395
+201619,Ramone Lonergan,32,Male,RC2,Stat_2,January,11,2016,W 26th Ave and Zuni St_Denver_CO,39.754862,-105.0159159,B,PD_0068
+201620,Alan Bartley,56,Male,RC2,Stat_1,January,11,2016,San Ferndo Rd and Hubbard St_San Ferndo_CA,34.290397,-118.4494678,B,PD_0791
+201621,Ciara Meyer,12,Female,RC2,Stat_1,January,11,2016,Rebecca Dr_Duncannon_PA,40.398426,-77.0335489,B,PD_0792
+201622,Herman Bean Jr,49,Male,RC6,Stat_5,January,12,2016,Arctic Blvd and W 32nd Ave_Anchorage_AK,61.1916115,-149.8979625,B,PD_0105
+201623,Keith Richardson,58,Male,RC2,Stat_2,January,11,2016,1100 Land St_Norfolk_VA,36.856488,-76.188148,B,PD_0793
+201624,Willie Holderfield,41,Male,RC2,Stat_2,January,14,2016,111 Seba St_Hurst_IL,37.8316049,-89.1431178,B,PD_0794
+201625,Timothy Meehan,60,Male,RC2,Stat_2,January,13,2016,805 W 1st St_Cle Elum_WA,47.1966113,-120.9541781,B,PD_0795
+201626,Miguel Herndez,39,Male,RC3,Stat_5,January,14,2016,Shangri-La Dr and than Hill Dr_Santa Clarita_CA,34.4195637,-118.4599348,B,PD_0010
+201627,Kelsey Hauser,25,Female,RC2,Stat_1,January,16,2016,300 S Pierce St_El Cajon_CA,32.7928897,-116.9782607,B,PD_0796
+201628,Efrain Herrera Jr,24,Male,RC3,Stat_5,January,17,2016,8800 Norwich Ave_Los Angeles_CA,34.2301354,-118.4598923,B,PD_0050
+201629,Alfred Longoria,34,Male,RC3,Stat_3,January,16,2016,1800 Nichols Canyon Rd_Los Angeles_CA,34.1037625,-118.358812,B,PD_0050
+201630,Henry Bennett,19,Male,RC1,Stat_2,January,16,2016,SW Ave D and SW 9th St_Belle Glade_FL,26.6828726,-80.6769225,B,PD_0636
+201631,William Waldron,26,Male,RC2,Stat_2,January,15,2016,Ward Ave_Elkins_WV,38.9139781,-79.8549533,B,PD_0226
+201632,Timothy Caruthers,27,Male,RC2,Stat_5,January,18,2016,3012 Crater Lake Hwy_Medford_OR,42.3598005,-122.8590852,B,PD_0198
+201633,Adam Karjalainen,44,Male,RC2,Stat_3,January,16,2016,10100 SW Murray Blvd_Beaverton_OR,45.4462748,-122.8259223,B,PD_0448
+201634,Joshua Fielding,38,Male,RC2,Stat_2,January,17,2016,164 Christopher St_Rainbow City_AL,33.9502889,-86.0364572,B,PD_0797
+201635,Crayton West,52,Male,RC1,Stat_2,January,17,2016,3517 S Grand Blvd_St Louis_MO,38.5932513,-90.2441163,B,PD_0055
+201636,Ashton Morris,27,Male,RC2,Stat_2,January,17,2016,5600 Enrique Barerra Pkwy_San Antonio_TX,29.4146173,-98.6013088,B,PD_0188
+201637,Jordan Szymanski,33,Male,RC2,Stat_2,January,18,2016,N Oracle Rd and W Roger Rd_Tucson_AZ,32.2792169,-110.9782399,B,PD_0153
+201638,Clarence Layfield Jr,55,Male,RC2,Stat_6,January,16,2016,_Petroleum_WV,,,B,PD_0226
+201639,Cory Henderson,31,Male,RC2,Stat_2,January,17,2016,2167 E 4500 S_Holladay_UT,40.674459,-111.8285899,B,PD_0798
+201640,Daniel Shaver,26,Male,RC2,Stat_1,January,18,2016,6530 E Superstition Springs Blvd_Mesa_AZ,33.3857825,-111.6925758,B,PD_0305
+201641,Vasilios Katsouras,29,Male,RC2,Stat_4,January,18,2016,3800 Amy Pl_Union City_CA,37.5923633,-122.0791633,B,PD_0799
+201642,Levi Wilson,39,Male,RC2,Stat_2,January,18,2016,W Peoria Ave and N 19th Ave_Phoenix_AZ,33.582102,-112.0996366,B,PD_0072
+201643,Samuel Grady,55,Male,RC2,Stat_5,January,19,2016,Virginia Ave_Statesville_NC,35.802945,-80.8905386,B,PD_0800
+201644,Gary Jones,36,Male,RC2,Stat_2,January,19,2016,1100 Riverwood Rd_Dallas_TX,32.6980412,-96.689888,B,PD_0801
+201645,Eric Provost,28,Male,RC2,Stat_3,January,18,2016,Swissco Dr_Orlando_FL,28.4687144,-81.3000917,B,PD_0092
+201646,Brandon Bearden,29,Male,RC2,Stat_2,January,13,2016,180 Collier Dr_Sevierville_TN,35.8378716,-83.5641647,B,PD_0802
+201647,Jim Redmond,28,Male,RC2,Stat_2,January,19,2016,3495 Madison Hwy_Valdosta_GA,30.753102,-83.2717769,B,PD_0803
+201648,Randy Sanders Jr,33,Male,RC2,Stat_2,January,20,2016,US-231 and Inspiratiol Dr_Meridianville_AL,34.8432808,-86.5712315,B,PD_0804
+201649,Timothy Albert,40,Male,RC1,Stat_2,January,20,2016,Louisia Hwy 741_Port Barre_LA,30.5587142,-91.9528665,B,PD_0805
+201650,Michael Lynch,37,Male,RC2,Stat_5,January,20,2016,N Ranch Rd 783_Harper_TX,30.2859426,-99.242794,B,PD_0547
+201651,Rakeem Bentley,24,Male,RC1,Stat_2,January,15,2016,27033 Northwestern Hwy_Southfield_MI,42.4843891,-83.2768825,B,PD_0806
+201652,Cedric Norris,39,Male,RC1,Stat_2,January,21,2016,US-69_Eufaula_OK,35.287252,-95.5931043,B,PD_0807
+201653,Lance Light,54,Male,RC2,Stat_2,January,2,2016,I-20 and Texas Hwy 70_Sweetwater_TX,32.4706795,-100.40595,B,PD_0808
+201654,Lonnie Powers Jr,37,Male,RC2,Stat_2,January,2,2016,1301 E 10th St_Sioux Falls_SD,43.5458283,-96.7094978,B,PD_0787
+201655,Joshua Lee,26,Male,RC2,Stat_2,January,22,2016,900 Horseshoe Rd_Augusta_GA,33.2931848,-81.9233198,B,PD_0417
+201656,Sharon Mitterling,67,Female,RC2,Stat_1,January,22,2016,Husky Trail_Warsaw_IN,41.2553201,-85.8234146,C,PD_0809
+201657,Michael Robinson,43,Male,RC2,Stat_3,January,23,2016,1855 County Rd 701_Clanton_AL,32.8518146,-86.6523274,B,PD_0810
+201658,Sergio Alvarado-Morales,38,Male,RC3,Stat_5,January,25,2016,S McCarran Blvd_Reno_NV,39.476759,-119.8056946,B,PD_0726
+201659,Filberto Valencia,26,Male,RC3,Stat_1,January,19,2016,3200 Nicole St_Stockton_CA,37.943818,-121.2394007,A,PD_0009
+201660,Robert 'LaVoy' Finicum,55,Male,RC2,Stat_2,January,26,2016,US-395_Burns_OR,43.5421658,-119.5065782,B,PD_0811
+201661,Janet Wilson,31,Female,RC1,Stat_6,January,27,2016,Hubbard Dr_Dearborn_MI,42.3217506,-83.2082094,B,PD_0762
+201662,Jothan Bratcher,32,Male,RC1,Stat_2,January,27,2016,800 South Parkway E_Memphis_TN,35.108658,-90.035911,B,PD_0108
+201663,Israel Rodriguez,26,Male,RC3,Stat_2,January,27,2016,I-75 and Delk Rd_Marietta_GA,,,B,PD_0630
+201664,than Bailey,30,Male,RC2,Stat_2,January,27,2016,4000 Vista Ridge Ln_Alvarado_TX,32.4883452,-97.1755154,B,PD_0812
+201665,Scott Scanlon,52,Male,RC2,Stat_2,January,27,2016,Little Blakely Creek Rd_Jessieville_AR,34.6658335,-93.1208386,B,PD_0813
+201666,John Smith,27,Male,RC2,Stat_5,January,27,2016,Pocosin Rd_Latta_SC,34.3537852,-79.5741957,B,PD_0814
+201667,Herman Flores,31,Male,RC3,Stat_2,January,27,2016,3007 Cerrillos Rd_Santa Fe_NM,35.6553691,-105.9933766,B,PD_0815
+201668,Thongsavanh Vandarack,40,Male,RC4,Stat_3,January,28,2016,Grandview Dr_Lenoir City_TN,35.8156302,-84.2312926,B,PD_0816
+201669,William Adams,33,Male,RC2,Stat_2,January,28,2016,3600 S 67th St_Omaha_NE,41.2260967,-96.0167118,B,PD_0079
+201670,Jacqueline Salyers,32,Female,RC6,Stat_6,January,29,2016,3300 S Sawyer St_Tacoma_WA,47.229934,-122.4540635,B,PD_0323
+201671,Randolph McClain,33,Male,RC1,Stat_2,January,29,2016,Western Ave and Nichols Ave_Lynn_MA,42.4723164,-70.953816,B,PD_0467
+201672,Christopher Dew,29,Male,RC1,Stat_2,January,29,2016,Texas Hwy 183_Irving_TX,32.8368994,-96.9486479,B,PD_0738
+201673,Philip Salazar,38,Male,RC3,Stat_4,January,30,2016,401 N Timberline Rd_Fort Collins_CO,40.5926789,-105.0314524,B,PD_0817
+201674,Jose Alegre,64,Male,RC3,Stat_2,January,30,2016,Sheila Gail Ln_Rossville_GA,34.9847336,-85.269153,B,PD_0818
+201675,Michael Brown,25,Male,RC2,Stat_1,January,30,2016,Old Decatur Rd_Sagiw_TX,32.8748437,-97.3907713,B,PD_0819
+201676,Bruce Kelley Jr,37,Male,RC1,Stat_5,January,31,2016,Whitney Ave_Pittsburgh_PA,40.4372596,-79.8899659,B,PD_0820
+201677,Charles Smith,29,Male,RC1,Stat_2,January,31,2016,7300 S Pauli St_Chicago_IL,41.761132,-87.666495,B,PD_0275
+201678,Peter John,36,Male,RC1,Stat_3,February,1,2016,5300 Clay Terrace NE_Washington_DC,38.8935346,-76.9246651,B,PD_0671
+201679,Jeremy Sinclair,42,Male,RC2,Stat_2,January,30,2016,_Sugar Creek_MO,,,B,PD_0821
+201680,Juan Ruiz,46,Male,RC3,Stat_5,January,31,2016,N 3rd St and W Main St_Immokalee_FL,26.4184624,-81.419449,B,PD_0656
+201681,Jeffry Graves,62,Male,RC2,Stat_2,January,31,2016,36500 Bridgepointe Dr_Newark_CA,37.529616,-122.0522382,B,PD_0570
+201682,Edgar Alvarado,21,Male,RC3,Stat_2,February,2,2016,La Veta Dr NE and El Encanto Pl NE_Albuquerque_NM,35.0937578,-106.5834068,B,PD_0822
+201683,Justin Prescott,30,Male,RC2,Stat_5,February,2,2016,10635 Folsom Blvd_Rancho Cordova_CA,38.5955035,-121.2933313,B,PD_0823
+201684,John Neuman,53,Male,RC2,Stat_2,February,3,2016,_Okmulgee County_OK,35.6106859,-95.8634467,B,PD_0824
+201685,Angela Hiatt,41,Female,RC2,Stat_6,January,29,2016,Lee Road 443_Phenix City_AL,32.4847319,-85.0723318,B,PD_0825
+201686,Joseph Moliro,34,Male,RC6,Stat_1,February,2,2016,Chestnut Ave_Carbondale_PA,41.5803393,-75.4960027,B,PD_0826
+201687,Raymond Gassman,22,Male,RC6,Stat_7,February,3,2016,_Rosebud_SD,,,B,PD_0827
+201688,Cristiaan Dubrino,31,Male,RC2,Stat_2,February,3,2016,Baseline Rd and Cherry Rd_Ocala_FL,29.1681388,-82.0534837,B,PD_0828
+201689,Antronie Scott,36,Male,RC1,Stat_1,February,4,2016,10362 Sahara Street_San Antonio_TX,29.5326697,-98.4963611,B,PD_0188
+201690,Thomas Hirko,54,Male,RC2,Stat_3,February,4,2016,2925 River Rd_Perry_OH,41.729083,-81.17868,B,PD_0296
+201691,Kayden Clarke,24,Male,RC2,Stat_5,February,4,2016,E Brown Rd and N 80th St_Mesa_AZ,33.4368498,-111.6586096,B,PD_0305
+201692,Scott Harless,47,Male,RC2,Stat_2,February,4,2016,Blue Ridge Blvd and E 113th St_Kansas City_MO,38.9187834,-94.5104862,B,PD_0449
+201693,Rold Barawis Jr,38,Male,RC4,Stat_6,February,5,2016,2100 Kanoelehua Ave_Hilo_HI,19.6920673,-155.0670095,B,PD_0156
+201694,Joshua Bispo,42,Male,RC2,Stat_2,January,31,2016,Weedpatch Hwy and Farmers Lane_Bakersfield_CA,35.3013776,-118.914376,B,PD_0194
+201695,Blake Fitzgerald,30,Male,RC2,Stat_2,February,5,2016,Garcon Point Rd_Milton_FL,30.5209376,-87.0539119,B,PD_0829
+201696,Hector Leroy,43,Male,RC3,Stat_2,February,4,2016,S El Paso St and E Overland Ave_El Paso_TX,31.7569098,-106.488698,B,PD_0057
+201697,Phillip Ferry,55,Male,RC2,Stat_2,February,5,2016,300 Broadway St_Seaside_OR,45.9934724,-123.9264162,B,PD_0649
+201698,Michael Laniado,27,Male,RC2,Stat_5,February,6,2016,1881 Rte 37 W_Manchester Township_NJ,39.9929982,-74.2774716,B,PD_0597
+201699,Jose Mendez,16,Male,RC3,Stat_2,February,6,2016,3300 E 6th St_Los Angeles_CA,34.0315948,-118.2005391,B,PD_0050
+2016100,Phillip Luchsinger,36,Male,RC2,Stat_7,February,7,2016,191 Angel Ln_Austin_AR,34.949608,-91.933681,B,PD_0830
+2016101,Marese Collins,23,Male,RC1,Stat_2,February,7,2016,500 Whitethorne Ave_Columbus_OH,39.9453701,-83.0561085,B,PD_0206
+2016102,Shalamar Longer,33,Male,RC1,Stat_2,February,8,2016,1200 Keystone Rd_Chester_PA,39.8357807,-75.4018943,B,PD_0376
+2016103,David Joseph,17,Male,RC1,Stat_1,February,8,2016,300 E Yager Ln_Austin_TX,30.3963529,-97.6674463,B,PD_0063
+2016104,Vinson Strickland,51,Male,RC2,Stat_2,February,5,2016,_Union Grove_NC,,,B,PD_0800
+2016105,Eric Harris,22,Male,RC1,Stat_6,February,8,2016,Simon Bolivar Ave and Philip St_New Orleans_LA,29.9390996,-90.0869109,B,PD_0207
+2016106,Gustavo jera,22,Male,RC3,Stat_1,February,9,2016,1313 W Lido Pl_Aheim_CA,33.8422426,-117.9337749,B,PD_0169
+2016107,Scottie Yagawa,29,Male,RC4,Stat_2,February,9,2016,325 Makaala St_Hilo_HI,19.7001161,-155.0620048,B,PD_0156
+2016108,David Evans,68,Male,RC2,Stat_2,February,10,2016,3412 Merchant Boulevard_Abingdon_MD,39.468964,-76.3094577,B,PD_0831
+2016109,Timothy Vessels,41,Male,RC2,Stat_2,February,10,2016,6400 Ladd Ave_Louisville_KY,38.1927521,-85.8591687,B,PD_0832
+2016110,Emily Thibodeaux,23,Female,RC2,Stat_1,February,5,2016,3600 E Nic Dr_Addis_LA,30.3584298,-91.2540333,B,PD_0833
+2016111,John Birkeland,52,Male,RC2,Stat_5,February,10,2016,1600 W County Rd B_Roseville_MN,45.0062302,-93.1669891,B,PD_0834
+2016112,Anthony Bertoni,56,Male,RC2,Stat_2,February,10,2016,Texas Hwy 274 and County Rd 4044_Kemp_TX,,,B,PD_0539
+2016113,Vincent geak III,36,Male,RC6,Stat_2,February,10,2016,7400 N Star St_Barrow_AK,71.3012499,-156.7383903,B,PD_0835
+2016114,Matthew Quinn,45,Male,RC2,Stat_4,February,11,2016,2800 La Vida Dr_Lancaster_CA,34.6820368,-118.079746,B,PD_0010
+2016115,Mohamed Barry,30,Male,RC1,Stat_4,February,11,2016,Stelzer Rd_Columbus_OH,40.021584,-82.91123,B,PD_0206
+2016116,Alijah Jackson,35,Male,RC2,Stat_5,February,11,2016,601 Old Park Rd_Maiden_NC,35.56044,-81.19182,B,PD_0836
+2016117,Peter Fanfan,29,Male,RC1,Stat_2,February,12,2016,Stanwood St and Laredo St_Boston_MA,42.3081465,-71.078382,B,PD_0225
+2016118,Sahlah Ridgeway,32,Female,RC1,Stat_2,February,12,2016,1313 Butternut St_Syracuse_NY,43.0690073,-76.1436855,B,PD_0837
+2016119,David Watson,53,Male,RC2,Stat_2,February,12,2016,7501 Camp Bowie W Blvd_Fort Worth_TX,32.7221745,-97.4457918,B,PD_0051
+2016121,Calin Roquemore,24,Male,RC1,Stat_1,February,13,2016,Texas Hwy 149_Beckville_TX,32.2396044,-94.4583728,B,PD_0539
+2016122,Calvin Smith,22,Male,RC1,Stat_2,February,13,2016,Fairfields Ave_Baton Rouge_LA,30.4674165,-91.1470306,B,PD_0676
+2016123,Dyzhawn Perkins,19,Male,RC1,Stat_1,February,13,2016,800 Penlan Rd_Arvonia_VA,37.6731343,-78.3959677,B,PD_0838
+2016124,Ali Yahia,29,Male,RC1,Stat_2,February,13,2016,4800 Merle Hay Rd_Urbandale_IA,41.649079,-93.6995061,B,PD_0839
+2016125,Rammy Jaradat,26,Male,RC7,Stat_5,February,14,2016,6900 Kester Ave_Los Angeles_CA,34.1960305,-118.4574558,B,PD_0050
+2016126,Eduardo Rodriguez,24,Male,RC3,Stat_2,February,14,2016,S Ferris Avenue and Whittier Boulevard_East Los Angeles_CA,34.0217108,-118.1633746,B,PD_0010
+2016127,Marc Stoddart,50,Male,RC2,Stat_5,February,14,2016,4800 Bookelia Cir_Bradenton_FL,27.457376,-82.4983974,B,PD_0719
+2016128,Brandon Witt,39,Male,RC2,Stat_7,February,15,2016,22711 Oakcrest Cir_Yorba Linda_CA,33.8726235,-117.7392924,B,PD_0324
+2016129,Christopher Andrews,51,Male,RC2,Stat_5,February,16,2016,22 Mountain Laurel Rd_Fairfield_CT,41.1792778,-73.2641078,B,PD_0040
+2016130,Destry Meikle,48,Male,RC2,Stat_6,February,16,2016,S Peachtree Ln_Republic_MO,37.1183001,-93.4685232,B,PD_0840
+2016131,Shawn Dickens,30,Male,RC2,Stat_2,February,16,2016,1513 Reeves Ave_Me_AR,34.580045,-94.249018,B,PD_0841
+2016132,Deborah Roman,44,Female,RC2,Stat_1,February,9,2016,Schalren Dr_Latham_NY,42.771845,-73.786452,B,PD_0842
+2016133,than Roman,10,Male,RC2,Stat_1,February,9,2016,Schalren Dr_Latham_NY,42.771845,-73.786452,B,PD_0842
+2016134,Talmadge King,47,Male,RC2,Stat_5,January,17,2016,E 5th St_Jacksonville_FL,30.3411505,-81.646697,B,PD_0843
+2016135,Guadalupe Sauceda,52,Male,RC3,Stat_2,February,15,2016,Madera Rd_Jal_NM,32.165763,-103.4262444,B,PD_0844
+2016136,Paul Gaston,37,Male,RC1,Stat_3,February,17,2016,3300 Harrison Ave_Cheviot_OH,39.1554991,-84.6044691,B,PD_0395
+2016137,Joseph Noel,25,Male,RC2,Stat_7,February,18,2016,Ashford Ln_Commerce_GA,34.198918,-83.4492273,B,PD_0845
+2016138,Oscar Reyes,35,Male,RC3,Stat_7,February,18,2016,1100 E 4th St_Santa A_CA,33.7480326,-117.854206,B,PD_0149
+2016139,Jose Quintanilla,30,Male,RC3,Stat_7,February,18,2016,1100 E 4th St_Santa A_CA,33.7480326,-117.854206,B,PD_0149
+2016140,Ronnie Padron,32,Male,RC3,Stat_2,February,18,2016,100 W Reno Rd_Reno_TX,32.9440637,-97.5776529,B,PD_0846
+2016141,Justin Moses,35,Male,RC2,Stat_5,February,19,2016,North St_Ogden_UT,41.2666132,-111.9686839,B,PD_0847
+2016142,Marcos Perea,41,Male,RC3,Stat_2,February,20,2016,Interstate 5_Lakewood_WA,47.1528931,-122.4946104,B,PD_0848
+2016143,Charles Lambert,45,Male,RC2,Stat_2,February,20,2016,231 County Rd 201_Iuka_MS,34.7473618,-88.136412,B,PD_0849
+2016144,Edgar Camacho-Alvarado,23,Male,RC3,Stat_2,February,20,2016,7501 Central Ave NW_Albuquerque_NM,35.079544,-106.719762,B,PD_0832
+2016145,Danny Rendon,30,Male,RC3,Stat_2,February,20,2016,2000 W Cris Ave_Aheim_CA,33.808398,-117.9523198,B,PD_0169
+2016146,Kisha Michael,31,Female,RC1,Stat_2,February,21,2016,W Manchester Blvd and Inglewood Ave_Inglewood_CA,33.9616106,-118.3617385,B,PD_0850
+2016147,Marquintan Sandlin,32,Male,RC1,Stat_7,February,21,2016,W Manchester Blvd and Inglewood Ave_Inglewood_CA,33.9616106,-118.3617385,B,PD_0850
+2016148,Che Taylor,47,Male,RC1,Stat_2,February,21,2016,2100 NE 85th St_Seattle_WA,47.690561,-122.30551,B,PD_0477
+2016149,Sherrisa Homer,36,Female,RC6,Stat_2,February,21,2016,W Indian School Rd and N 23rd Ave_Phoenix_AZ,33.4950176,-112.1083092,B,PD_0072
+2016150,Patricia Kruger,38,Female,RC6,Stat_2,February,22,2016,Hawk Ln_Houston_AK,61.5850541,-149.7781378,B,PD_0851
+2016151,Jamie Long,45,Male,RC2,Stat_5,February,22,2016,601 Truxtun Ave_Bakersfield_CA,35.3721912,-119.0076905,B,PD_0197
+2016152,David Green,38,Male,RC2,Stat_6,February,22,2016,2905 N Conway Ave_Mission_TX,26.23781,-98.324115,B,PD_0852
+2016153,Gerardino Cayetano-Gonzalez,33,Male,RC3,Stat_2,February,22,2016,Lowell Blvd and W 35th Ave_Denver_CO,39.7657533,-105.0346296,B,PD_0068
+2016154,Rouven Loch,22,Male,RC2,Stat_3,February,22,2016,Eastview Dr_Fairborn_OH,39.8385029,-84.010515,B,PD_0853
+2016155,Baltazar Ramos,39,Male,RC3,Stat_4,February,23,2016,3200 Telephone Rd_Houston_TX,29.7127106,-95.3172237,B,PD_0854
+2016156,Curtis Dugger,31,Male,RC2,Stat_2,February,19,2016,1709 S Side Rd_Elizabethton_TN,36.3301969,-82.2365605,B,PD_0855
+2016157,Alex Buckner,26,Male,RC4,Stat_2,February,23,2016,4800 W Sunnyside Ave_Glendale_AZ,33.5919595,-112.1622695,B,PD_0072
+2016158,Angel Gleason,36,Male,RC2,Stat_2,February,23,2016,22700 Jack Tone Rd_Ripon_CA,37.7521633,-121.1420302,B,PD_0856
+2016159,Travis Stevenson,48,Male,RC1,Stat_6,February,23,2016,Terrace Ave_Baton Rouge_LA,30.4364733,-91.174293,B,PD_0857
+2016160,Robert Keil,16,Male,RC2,Stat_5,February,24,2016,1500 SW 20 St_Blue Springs_MO,39.001297,-94.287944,B,PD_0858
+2016161,Martin Wirth,58,Male,RC2,Stat_2,February,24,2016,36 Iris Dr_Bailey_CO,39.446133,-105.475033,B,PD_0859
+2016162,Victor Rivera,27,Male,RC3,Stat_6,February,24,2016,75th Ave and McDowell Rd_Phoenix_AZ,33.46574,-112.2206346,B,PD_0072
+2016163,Francisco Garcia,26,Male,RC3,Stat_6,February,24,2016,Alondra Blvd and Studebaker Rd_Norwalk_CA,33.8874655,-118.0998234,B,PD_0010
+2016164,Luke Miller,37,Male,RC2,Stat_2,February,25,2016,US-85_Evans_CO,40.3767661,-104.693789,B,PD_0860
+2016165,Greg Gunn,56,Male,RC1,Stat_8,February,25,2016,3200 McElvy St_Montgomery_AL,32.3483609,-86.3330871,B,PD_0861
+2016166,Tristan Conti,19,Male,RC2,Stat_2,February,25,2016,1280 Lincoln Hwy_Silver Springs_NV,39.4162123,-119.2250494,B,PD_0862
+2016167,Cedric Ford,38,Male,RC1,Stat_2,February,25,2016,200 S Ridge Rd_Hesston_KS,38.1357058,-97.4252262,B,PD_0863
+2016168,Abraham Fryer,35,Male,RC2,Stat_1,February,26,2016,Twilight Dr and Concourse Dr_Rapid City_SD,44.0674667,-103.1555329,B,PD_0864
+2016169,Kionte Spencer,18,Male,RC1,Stat_3,February,26,2016,4049 Brambleton Ave_Roanoke_VA,37.2314613,-80.0090148,B,PD_0865
+2016170,Ferndo Herndez,23,Male,RC3,Stat_2,February,27,2016,US-181_San Antonio_TX,29.3079683,-98.3943515,B,PD_0866
+2016171,than Grissom,41,Male,RC2,Stat_2,February,28,2016,285 5th Ave_Ashville_AL,33.8373129,-86.2507997,B,PD_0867
+2016172,Earl Hicks II,43,Male,RC2,Stat_2,February,28,2016,30 Main St_Rapid City_SD,44.0798037,-103.2170023,B,PD_0627
+2016173,Akiel Denkins,24,Male,RC1,Stat_2,February,29,2016,Bragg St_Raleigh_NC,35.7656798,-78.6294482,B,PD_0868
+2016174,Dimitri Corcino,39,Male,RC3,Stat_2,March,1,2016,Mariposa Dr NE_Palm Bay_FL,28.0279374,-80.6407998,B,PD_0137
+2016175,Jorge Gonzalez,22,Male,RC3,Stat_2,March,1,2016,508 Simmons Dr_Euless_TX,32.8303727,-97.0910517,B,PD_0869
+2016176,Mickey Sweatt,37,Male,RC2,Stat_2,March,1,2016,7300 Home of Grace Dr_Gautier_MS,30.4472803,-88.6458773,B,PD_0870
+2016177,Travis Bradley,35,Male,RC2,Stat_1,March,2,2016,Althea Ct_Bel Air_MD,39.492107,-76.3329978,B,PD_0871
+2016178,Sergio Ochoa,27,Male,RC3,Stat_5,March,3,2016,S Lindsay Rd and E Warner Rd_Gilbert_AZ,33.3356575,-111.7729691,B,PD_0305
+2016179,Christopher Kalonji,19,Male,RC1,Stat_2,January,28,2016,3700 SE Concord Rd_Oak Grove_OR,45.4093031,-122.6252565,B,PD_0119
+2016180,Daniel Burkhardt,41,Male,RC2,Stat_5,March,2,2016,Spickler Alley_Johnstown_PA,40.3543755,-78.9495778,B,PD_0872
+2016181,Darrell Bosell,34,Male,RC2,Stat_2,March,5,2016,4600 Genesee St_Cheektowaga_NY,42.9353571,-78.7162406,B,PD_0873
+2016182,Herbert Ballance,22,Male,RC2,Stat_2,March,5,2016,600 S 23rd St_Beaumont_TX,30.0703143,-94.143106,B,PD_0874
+2016183,John Chamberlain,66,Male,RC2,Stat_7,March,4,2016,_Mt Ida_AR,,,B,PD_0875
+2016184,Osvaldo Torres,41,Male,RC3,Stat_2,March,6,2016,Tweedy Blvd and Burtis St_South Gate_CA,33.9406938,-118.1755234,B,PD_0025
+2016185,Philip Vitullo,49,Male,RC2,Stat_2,March,7,2016,3700 Lake Ave_Rochester_NY,43.2376877,-77.6228607,B,PD_0367
+2016186,James 'Tony' Scott,42,Male,RC2,Stat_1,March,6,2016,E Rosser Ave and N 32nd St_Bismarck_ND,46.8089534,-100.7427999,B,PD_0876
+2016187,Mark Minnick,51,Male,RC2,Stat_2,March,6,2016,600 Alameda Rd_Azle_TX,32.8640092,-97.5134806,B,PD_0877
+2016188,Randall Selsor,45,Male,RC2,Stat_7,March,7,2016,504 SW Taylor St_Topeka_KS,39.055423,-95.6823859,B,PD_0832
+2016189,Byron Rosas,45,Male,RC2,Stat_5,March,7,2016,S 3rd St and Martha St_San Jose_CA,37.3236301,-121.8783621,B,PD_0110
+2016190,John Charles Graham,42,Male,RC2,Stat_2,March,7,2016,S 1st St_Joliet_MT,45.4833832,-108.9729938,B,PD_0878
+2016191,Brandon Stanley,30,Male,RC2,Stat_1,March,4,2016,700 KY-3094_East Bernstadt_KY,37.1902454,-84.1078007,B,PD_0879
+2016192,Jeffrey Casale,27,Male,RC2,Stat_3,March,8,2016,Swallowtail Ct_Tampa_FL,28.0836467,-82.4624204,B,PD_0562
+2016193,Daniel Chavez,41,Male,RC3,Stat_1,March,7,2016,N Happy Valley Rd and W Texas St_Carlsbad_NM,32.4218459,-104.277226,B,PD_0880
+2016194,Alex Thompson,37,Male,RC2,Stat_1,March,3,2016,Country Store Rd and US-70_Selma_NC,35.5058378,-78.2356924,D,PD_0881
+2016196,Jason Meador,50,Male,RC2,Stat_2,March,10,2016,1200 Douglas Dr_Odessa_TX,31.88807,-102.374062,B,PD_0882
+2016197,Arteair Porter Jr,22,Male,RC1,Stat_3,March,10,2016,Lemmon Dr_Reno_NV,39.6778416,-119.8624577,B,PD_0883
+2016198,Wesley Sheppard,37,Male,RC2,Stat_3,March,10,2016,Popps Ferry Bridge_Biloxi_MS,30.4205993,-88.9746191,B,PD_0884
+2016199,Martin Hurtado,21,Male,RC3,Stat_2,March,10,2016,E 68th St and Orcutt Ave_Long Beach_CA,33.8776896,-118.2027059,B,PD_0290
+2016200,German Gonzalez,23,Male,RC3,Stat_7,March,10,2016,8950 I-25_Pueblo_CO,37.9614685,-104.7942835,B,PD_0885
+2016201,Tyre Privott,25,Male,RC1,Stat_2,March,11,2016,Chesapeake Blvd and Fishermans Rd_Norfolk_VA,36.9296513,-76.2436771,B,PD_0793
+2016202,Manford 'Butch' Moore Jr,51,Male,RC2,Stat_2,March,11,2016,SE 10th St_Rosalia_KS,37.8101896,-96.5942031,B,PD_0886
+2016203,Teodoro Valencia,23,Male,RC3,Stat_2,March,11,2016,5724 Thornton Ave_Newark_CA,37.5400141,-122.0276806,B,PD_0887
+2016204,Peter Gaines,35,Male,RC1,Stat_1,March,12,2016,Eastex Freeway Service Rd and Collingsworth St_Houston_TX,29.793835,-95.3402575,B,PD_0047
+2016205,Keith Montgomery Jr,24,Male,RC1,Stat_2,March,12,2016,Parker St and Union St_Chester_PA,39.843614,-75.3671967,B,PD_0376
+2016206,Joshua Grubb,30,Male,RC2,Stat_1,March,13,2016,I-75 and Highway 321_Lenoir City_TN,,,B,PD_0888
+2016207,Marco Loud,20,Male,RC1,Stat_1,March,12,2016,3833 Cypress Creek Pkwy_Houston_TX,29.9936767,-95.4866628,B,PD_0268
+2016208,Wesley 'Chad' Deerman,26,Male,RC2,Stat_2,March,13,2016,Sanford Rd_Piedmont_AL,33.9359184,-85.6090959,B,PD_0889
+2016209,Gevork Alachadzhyan,45,Male,RC2,Stat_7,March,13,2016,100 S Glendale Ave_Glendale_CA,34.1463298,-118.2471769,B,PD_0438
+2016210,Amy McCoy,38,Female,RC2,Stat_5,March,13,2016,9600 NE 81st St_Vancouver_WA,45.681546,-122.574598,B,PD_0890
+2016211,Jack Goodman,46,Male,RC2,Stat_5,March,11,2016,101 E Benton St_Clinton_IL,40.1454085,-88.9557693,B,PD_0891
+2016212,Jose Cruz,16,Male,RC3,Stat_1,March,13,2016,Spring Valley Rd and Marsh Ln_Addison_TX,32.9400024,-96.8557398,B,PD_0892
+2016213,Jacai Colson,28,Male,RC1,Stat_2,March,13,2016,7600 Barlowe Rd_Landover_MD,38.9181535,-76.8752434,B,PD_0543
+2016214,Lamar Harris,29,Male,RC1,Stat_2,March,14,2016,3700 W Polk St_Chicago_IL,41.8710302,-87.7181233,B,PD_0275
+2016215,Joseph Harris,34,Male,RC2,Stat_2,March,15,2016,Armory Dr and N Main St_Russellville_KY,36.8508644,-86.8918894,B,PD_0893
+2016216,Cristian Medi,23,Male,RC3,Stat_1,March,16,2016,Holmes Ave and E 64th St_Los Angeles_CA,33.9811937,-118.2411736,B,PD_0010
+2016217,Ed McIver Sr,43,Male,RC2,Stat_2,March,15,2016,I-30 and Hulen_Fort Worth_TX,,,B,PD_0051
+2016218,Daniel Wooters,38,Male,RC2,Stat_5,March,15,2016,3300 Morgan Ave_Evansville_IN,37.9929525,-87.5095105,B,PD_0894
+2016219,Vincent Avila,25,Male,RC3,Stat_7,March,16,2016,20000 Ochoa Rd_Apple Valley_CA,34.5071819,-117.2253505,B,PD_0184
+2016220,Eric Herndez,33,Male,RC3,Stat_2,March,16,2016,300 E Pyron Ave_San Antonio_TX,29.362683,-98.489365,B,PD_0188
+2016221,Dennis Penny,40,Male,RC2,Stat_2,March,16,2016,Blewett Falls Rd_Rockingham_NC,34.9828561,-79.8578179,B,PD_0699
+2016222,Map Kong,38,Male,RC4,Stat_5,March,17,2016,2901 Minnesota Hwy 13_Burnsville_MN,44.8021311,-93.2312241,B,PD_0895
+2016223,Sunny Chin,53,Male,RC4,Stat_2,March,17,2016,3312 W Cherokee Ave_Tampa_FL,27.888896,-82.499128,B,PD_0452
+2016224,Carlton Murphy Jr,33,Male,RC1,Stat_2,January,5,2016,3117 Tacoma St_Charlotte_NC,35.2406047,-80.916271,B,PD_0129
+2016225,Scott Bennett,29,Male,RC1,Stat_7,March,17,2016,11314 North Freeway_Houston_TX,,,B,PD_0047
+2016226,Christopher Nelms,30,Male,RC1,Stat_7,March,17,2016,11314 North Freeway_Houston_TX,,,B,PD_0047
+2016228,Michael Mallett,49,Male,RC2,Stat_2,March,18,2016,2700 Hoffman Ln_Byron_CA,37.878525,-121.64742,B,PD_0896
+2016229,India Beaty,25,Female,RC1,Stat_3,March,19,2016,9500 Shore Dr_Norfolk_VA,36.9266489,-76.19122,B,PD_0793
+2016230,Thurman Reynolds,21,Male,RC1,Stat_2,March,19,2016,300 Neola St_Park Forest_IL,41.4765106,-87.6861845,B,PD_0897
+2016231,Dylan Whitaker,23,Male,RC2,Stat_2,March,19,2016,Dragline Rd_Nortonville_KY,37.1418509,-87.415275,B,PD_0053
+2016232,Joshua Douglas,24,Male,RC2,Stat_1,March,19,2016,3rd Ave_Covington_LA,30.4329033,-90.0684612,B,PD_0658
+2016233,Boyd Ballard,61,Male,RC2,Stat_5,March,20,2016,600 Winston Churchill Dr_Hopewell_VA,37.2911428,-77.2888827,B,PD_0898
+2016234,Abraham Martinez,62,Male,RC3,Stat_2,March,20,2016,310 Rudisill Blvd_Fort Wayne_IN,41.0496397,-85.13327,B,PD_0899
+2016235,Robert Dentmond,16,Male,RC1,Stat_3,March,20,2016,5800 SW 20th Ave_Gainesville_FL,29.6412729,-82.4050733,B,PD_0900
+2016236,Clarence Briggs,55,Male,RC2,Stat_2,March,20,2016,Pennsylvania Turnpike_Fort Littleton_PA,40.0545412,-77.9568412,B,PD_0115
+2016237,Ralph 'Phil' Grenon,76,Male,RC2,Stat_5,March,21,2016,101 College St_Burlington_VT,44.4769147,-73.2159081,B,PD_0011
+2016238,Edward Gorinski,28,Male,RC2,Stat_2,March,21,2016,1400 Broad St_Greensburg_PA,40.279356,-79.547168,B,PD_0115
+2016239,Dylan Pape,25,Male,RC2,Stat_3,March,21,2016,119 Wedgemere Rd_Stamford_CT,41.1135038,-73.5278929,B,PD_0901
+2016240,Travis Blair,33,Male,RC2,Stat_1,March,22,2016,Braehead Dr and Kinloch Dr_Fredericksburg_VA,38.2808636,-77.4786511,B,PD_0902
+2016241,Ethan Rincon,25,Male,RC3,Stat_4,March,22,2016,8800 SW 183rd Terrace_Palmetto Bay_FL,25.599446,-80.333858,B,PD_0266
+2016242,Daven Hannu,51,Male,RC2,Stat_2,March,23,2016,Grant St_Thornton_CO,39.8613,-104.9828054,B,PD_0903
+2016243,Alexio Allen,30,Male,RC1,Stat_2,March,23,2016,3400 Dillard Rd_Memphis_TN,35.2114264,-89.9493135,B,PD_0108
+2016244,Robert Dussourd,44,Male,RC2,Stat_5,March,24,2016,E Division St_Braintree_MA,42.1683993,-71.0048774,B,PD_0904
+2016245,Raymond Gonzalez,34,Male,RC3,Stat_2,March,23,2016,N Blackstone Ave_Fresno_CA,36.8008354,-119.790394,B,PD_0527
+2016246,Joel Gonzales,48,Male,RC3,Stat_2,March,24,2016,2600 E 8th St_Pueblo_CO,38.8016388,-104.8408284,B,PD_0066
+2016247,Andrew Mike,29,Male,RC2,Stat_2,March,24,2016,602 Orange St_Redlands_CA,34.0608958,-117.1809505,B,PD_0905
+2016248,Dominique Silva,24,Male,RC1,Stat_3,March,24,2016,Webster St_Pawtucket_RI,41.8905226,-71.3690642,B,PD_0906
+2016249,Jermon Seals,22,Male,RC1,Stat_2,March,24,2016,1701 Nw State Route 7_Blue Springs_MO,39.0376141,-94.2722312,B,PD_0907
+2016250,Terrence Blackburn,36,Male,RC2,Stat_2,March,26,2016,1600 Old Home Creek Rd_Grundy_VA,,,B,PD_0908
+2016251,Mario Sandoval,19,Male,RC3,Stat_2,March,24,2016,14500 Central Ave SW_Albuquerque_NM,35.0868812,-106.6830104,B,PD_0909
+2016252,Patrick McMamon,46,Male,RC2,Stat_2,March,26,2016,11408 N 30th St_Tampa_FL,28.0523232,-82.4277859,B,PD_0452
+2016253,Dold White,55,Male,RC2,Stat_2,March,26,2016,Robert M Grissom Pkwy and 21st Ave N_Myrtle Beach_SC,33.7112497,-78.882302,B,PD_0910
+2016254,Jose Perez,39,Male,RC3,Stat_5,March,26,2016,75 Cambridge St_Lowell_MA,42.6316659,-71.3169447,B,PD_0911
+2016255,Robert Guerin,33,Male,RC2,Stat_2,March,26,2016,700 S Aspen Ave_Roswell_NM,33.385032,-104.5544456,B,PD_0912
+2016256,Deriante Miller,18,Male,RC1,Stat_2,March,27,2016,2644 Crepe Myrtle St_Kinston_NC,35.33212,-77.635437,B,PD_0913
+2016257,Loreal Tsingine,27,Female,RC6,Stat_4,March,27,2016,323 N Williamson Ave_Winslow_AZ,35.024022,-110.696341,B,PD_0067
+2016258,Jeffrey Lahan,34,Male,RC2,Stat_5,March,27,2016,200 NW Hickory St_Lee's Summit_MO,38.9888844,-94.3846175,B,PD_0914
+2016259,Earl Ashby,33,Male,RC2,Stat_2,March,27,2016,14600 Ashland Drive_Splendora_TX,,,B,PD_0875
+2016260,Joseph Melvin,46,Male,RC2,Stat_4,March,29,2016,3200 Park St_Clearlake_CA,38.9760809,-122.6545328,B,PD_0915
+2016261,Robert Garrison Jr,51,Male,RC2,Stat_2,March,29,2016,W Gantt Cir_Piedmont_SC,34.7832967,-82.4143178,B,PD_0148
+2016262,Denise Fairchild,50,Female,RC2,Stat_2,March,29,2016,340th Ave and Highway 210_Aitkin_MN,46.6091865,-93.5695047,B,PD_0916
+2016263,Angel Montion,33,Male,RC3,Stat_2,March,30,2016,6400 Northside Dr_East Los Angeles_CA,34.012382,-118.126995,B,PD_0010
+2016264,James Brown III,34,Male,RC1,Stat_2,March,31,2016,2910 N Boulevard_Richmond_VA,37.5718738,-77.4656996,B,PD_0565
+2016265,Matthew Wood Jr,43,Male,RC1,Stat_2,March,31,2016,400 E Lanvale St_Baltimore_MD,39.3090543,-76.6104761,B,PD_0064
+2016266,Kimani Johnson,18,Male,RC1,Stat_2,March,31,2016,400 E Lanvale St_Baltimore_MD,39.3090543,-76.6104761,B,PD_0064
+2016267,Jesse Juarez,65,Male,RC3,Stat_4,April,1,2016,1000 S Main St_Lockhart_TX,29.873963,-97.6701684,B,PD_0917
+2016268,Joel Fabela,38,Male,RC3,Stat_2,April,1,2016,3001 E Business Loop 20_Odessa_TX,31.8699914,-102.320752,B,PD_0882
+2016269,Cameron Glover,30,Male,RC1,Stat_2,April,2,2016,4645 W 38th St_Indiapolis_IN,39.8239354,-86.2373439,B,PD_0037
+2016270,David Mack,69,Male,RC2,Stat_4,April,3,2016,2611 W Moholt Dr_Eau Claire_WI,44.8238092,-91.5457946,B,PD_0918
+2016271,Darrin Martin,25,Male,RC2,Stat_2,April,3,2016,508 West Ave_Austin_TX,30.2700601,-97.7510993,B,PD_0063
+2016272,Melissa Boarts,36,Female,RC2,Stat_5,April,3,2016,Red Creek Rd_Notasulga_AL,32.5207555,-85.652249,B,PD_0919
+2016273,Raul Marquez-Heraldes,50,Male,RC3,Stat_5,April,4,2016,2100 Minnehaha Ave_Minneapolis_MN,44.9623882,-93.2441464,B,PD_0714
+2016274,Kevin Hicks,44,Male,RC1,Stat_1,April,5,2016,1001 N Rural St_Indiapolis_IN,39.7815692,-86.1160977,B,PD_0037
+2016275,Peter Doherty,52,Male,RC2,Stat_5,April,5,2016,24 Myron St_West Springfield_MA,42.133173,-72.62698,B,PD_0920
+2016276,Marvin Cremeans,60,Male,RC2,Stat_4,April,6,2016,1449 Monroe Hollow Rd_Oak Hill_OH,38.877284,-82.669214,B,PD_0921
+2016277,Christopher Erdman,39,Male,RC2,Stat_1,April,6,2016,2020 26th Ave E_Bradenton_FL,27.475909,-82.539535,D,PD_0922
+2016278,Laronda Sweatt,40,Female,RC1,Stat_4,April,6,2016,287 Chaffin Ct_Gallatin_TN,36.3702022,-86.4358956,B,PD_0923
+2016279,Cesar Frias,20,Male,RC3,Stat_5,April,6,2016,14700 Lakeside St_Los Angeles_CA,34.3076613,-118.4529115,B,PD_0050
+2016280,Luis GÌÄåÎ_ngora,45,Male,RC3,Stat_5,April,7,2016,Shotwell St_San Francisco_CA,37.7556429,-122.415497,B,PD_0006
+2016281,Lance McIntire,44,Male,RC2,Stat_7,April,7,2016,L St and S 31st St_Omaha_NE,41.2122454,-95.9600457,B,PD_0079
+2016282,Christopher Wilson,41,Male,RC2,Stat_1,April,7,2016,320 State Hwy 388_Gould_AR,34.0539031,-91.5866882,B,PD_0924
+2016283,Dazion 'Jerome' Fleugh,40,Male,RC1,Stat_5,April,8,2016,7600 Prescott Way_Sacramento_CA,38.481371,-121.440523,B,PD_0328
+2016284,Lamont Gulley,43,Male,RC1,Stat_5,April,8,2016,Breton Rd SE and Edington Dr SE_Kentwood_MI,42.8974144,-85.6071228,B,PD_0663
+2016285,Melissa Abbott,25,Female,RC2,Stat_4,April,8,2016,2786 Commercial Blvd_Lake Hallie_WI,44.8835267,-91.4218027,B,PD_0925
+2016286,Diahlo Grant,27,Male,RC1,Stat_2,April,9,2016,Somerset St_New Brunswick_NJ,40.4872338,-74.4673309,B,PD_0926
+2016287,Lonnie Ball,39,Male,RC2,Stat_2,April,10,2016,Lance St_Modesto_CA,37.6485781,-120.9595753,B,PD_0652
+2016288,Arturo Yobani-Torrez Valdez,27,Male,RC3,Stat_5,April,10,2016,1400 Gabriel Garcia Marquez St_Los Angeles_CA,34.050222,-118.2249974,B,PD_0050
+2016289,Quron Williams,19,Male,RC1,Stat_2,April,9,2016,5700 N Park Ave_Philadelphia_PA,40.0397221,-75.1433964,B,PD_0379
+2016290,William Clark III,30,Male,RC2,Stat_5,April,10,2016,1061 Roberta Rd_Rotterdam_NY,42.775573,-73.936392,B,PD_0927
+2016291,Pierre Loury,16,Male,RC1,Stat_2,April,11,2016,3400 W Grenshaw St_Chicago_IL,41.8674429,-87.7109419,B,PD_0275
+2016292,Efren Trujillo-Soriano,22,Male,RC3,Stat_2,April,11,2016,2000 Paradise Rd_Las Vegas_NV,36.1471357,-115.1532438,B,PD_0456
+2016293,Dion Damon,40,Male,RC2,Stat_1,April,12,2016,Bannock St and W 14th Ave Pkwy_Denver_CO,39.738449,-104.9902579,B,PD_0068
+2016294,Travis Wood,20,Male,RC2,Stat_6,April,12,2016,Rufus Bass Rd_Noma_FL,30.991877,-85.6157779,B,PD_0928
+2016295,Rodney Watts,35,Male,RC1,Stat_7,April,13,2016,Knickerbocker Dr_Stockton_CA,38.0242531,-121.2939626,B,PD_0009
+2016296,Joshua Moreno,38,Male,RC3,Stat_2,April,12,2016,Illinois Hwy 37_Benton_IL,37.9964964,-88.9204959,B,PD_0929
+2016297,Jeffrey Wise,52,Male,RC2,Stat_2,April,13,2016,Texas Hwy 71 and County Rd 305_Llano_TX,30.7142633,-98.6276419,B,PD_0930
+2016298,Koltlee Whitson,26,Male,RC2,Stat_2,April,13,2016,Post Oak Bridge Rd_Sparta_TN,36.065446,-85.4895425,B,PD_0931
+2016299,Luis Soto,29,Male,RC3,Stat_2,April,10,2016,1700 Getwell Rd_Memphis_TN,35.0852136,-89.9312114,B,PD_0108
+2016300,Jeff Robertson,54,Male,RC2,Stat_1,April,14,2016,19th Ave and E Kansas Ave_McPherson_KS,38.3767002,-97.5743332,B,PD_0932
+2016301,Allen 'Storm' Smith,26,Male,RC2,Stat_7,April,15,2016,4200 E Jackson St_Muncie_IN,40.1929612,-85.3384914,B,PD_0518
+2016302,David Swatsky,52,Male,RC2,Stat_2,April,15,2016,300 SW Whitetail Dr_Cache_OK,34.6044978,-98.6033123,B,PD_0933
+2016303,Clemente jera,38,Male,RC3,Stat_4,April,15,2016,300 W Heald Ave_Lake Elsinore_CA,33.6706036,-117.3296734,B,PD_0934
+2016304,Gerald Boyes,52,Male,RC2,Stat_2,April,16,2016,26211 Illinois Route 173_Antioch_IL,42.4716991,-88.1449548,B,PD_0935
+2016305,Kisha Arrone,35,Female,RC1,Stat_2,April,17,2016,3100 Wexford Pl_Dayton_OH,39.7421206,-84.2425843,B,PD_0936
+2016306,George Tillman,32,Male,RC1,Stat_2,April,17,2016,116th Ave and 135th St_South Ozone Park_NY,40.6790399,-73.8054241,B,PD_0287
+2016307,Richard Bard Jr,31,Male,RC1,Stat_2,April,17,2016,S East Ave and Almond St_Vineland_NJ,39.4816947,-75.016972,B,PD_0237
+2016308,Edson Thevenin,38,Male,RC1,Stat_6,April,17,2016,6th Ave_Troy_NY,42.757704,-73.679498,B,PD_0555
+2016309,Eric Wilson,22,Male,RC2,Stat_1,April,17,2016,7200 Tierra Taos Dr_El Paso_TX,31.87185,-106.556091,B,PD_0023
+2016310,Jorevis Scruggs,15,Male,RC1,Stat_2,April,19,2016,3200 St Louis Ave_St Louis_MO,38.6540079,-90.2194797,B,PD_0055
+2016311,Sylasone Ackhavong,41,Male,RC4,Stat_2,April,19,2016,2415 Little Rock Rd_Charlotte_NC,35.2461295,-80.936146,B,PD_0129
+2016312,Rico Johnson,28,Male,RC1,Stat_2,April,18,2016,6200 Springhill Ct_Greenbelt_MD,39.0038281,-76.9006422,B,PD_0937
+2016313,Demetrius Dorsey,18,Male,RC1,Stat_2,April,18,2016,6400 Mableton Pkwy SW_Mableton_GA,33.7980263,-84.5644376,B,PD_0938
+2016314,Robert Howard,44,Male,RC1,Stat_3,April,15,2016,1400 W Baltimore St_Baltimore_MD,39.2886792,-76.6397682,B,PD_0064
+2016315,Daniel Blackmon,38,Male,RC2,Stat_2,April,19,2016,US 278 and Alabama 79_Blountsville_AL,34.1614778,-86.4752676,B,PD_0939
+2016316,Francis Dufore,41,Male,RC2,Stat_2,April,20,2016,SW 180th Ave_Homestead_FL,25.4367733,-80.4832932,B,PD_0266
+2016317,Jackie Kirkham,52,Male,RC2,Stat_7,April,20,2016,1542 Arkansas Hwy 9_Perryville_AR,34.9735862,-92.7969676,B,PD_0940
+2016318,Mario Mejia-Martinez,48,Male,RC3,Stat_5,April,21,2016,Broadway and Chelsea St_Everett_MA,42.4070454,-71.0555213,B,PD_0941
+2016319,Christopher Tokazowski,43,Male,RC2,Stat_2,March,11,2016,1606 Efland Dr_Greensboro_NC,36.10772,-79.809211,B,PD_0942
+2016320,Tyler Hunkin,29,Male,RC2,Stat_5,April,22,2016,6600 MoPac Expy_Austin_TX,30.2205343,-97.8376428,B,PD_0063
+2016321,Carl Baranishyn,51,Male,RC2,Stat_5,April,22,2016,12 High Point Rd_Berne_NY,42.589216,-74.1829659,B,PD_0035
+2016322,Mitchell Oakley,24,Male,RC2,Stat_2,April,23,2016,1175 S Arizo Avenue_Chandler_AZ,33.2891775,-111.8380362,B,PD_0007
+2016323,Jakob Wagner,18,Male,RC2,Stat_2,April,23,2016,1900 10th Ave_Antigo_WI,45.1329655,-89.1740607,B,PD_0943
+2016324,Demarcus Semer,21,Male,RC1,Stat_1,April,23,2016,Ave G and N 19th St_Fort Pierce_FL,27.4566181,-80.3437382,B,PD_0720
+2016325,Eric Wakup,30,Male,RC2,Stat_2,April,23,2016,1300 Church St_Norfolk_VA,36.859553,-76.27761,B,PD_0793
+2016326,Bradford Macomber,53,Male,RC2,Stat_1,April,24,2016,1724 Beach Blvd_Gulfport_MS,30.369106,-89.08316,D,PD_0147
+2016327,Kay Campbell,60,Female,RC2,Stat_2,April,25,2016,422 E Blue Ridge Rd_East Flat Rock_NC,35.284624,-82.417936,B,PD_0468
+2016328,Jacquelyn Burke,24,Female,RC2,Stat_2,April,26,2016,5800 Eubank Blvd NE_Albuquerque_NM,35.1456334,-106.5267234,B,PD_0311
+2016329,Joshua Brooks,26,Male,RC1,Stat_2,April,26,2016,1300 Hawthorne Dr_Chesapeake_VA,36.816833,-76.233319,B,PD_0039
+2016330,Robin Barber,28,Male,RC2,Stat_2,April,26,2016,480 Wadsworth Blvd_Lakewood_CO,39.7234528,-105.0805387,B,PD_0283
+2016331,Darrel Machemehl,44,Male,RC2,Stat_2,April,26,2016,US-90 and FM1104_Kingsbury_TX,29.6489801,-97.8226262,B,PD_0944
+2016332,Damon Blair,21,Male,RC2,Stat_2,April,27,2016,7300 Tennyson St_Westminster_CO,39.828783,-105.043952,B,PD_0945
+2016333,Cin Mung,34,Male,RC4,Stat_4,April,27,2016,3000 Green Oaks Cir NE_Atlanta_GA,33.8521281,-84.265899,B,PD_0334
+2016334,Kendar del Rosario,37,Male,RC3,Stat_5,April,28,2016,NW 2nd St and NW 7th Ave_Miami_FL,25.775735,-80.2060853,B,PD_0397
+2016335,Ashtian Barnes,25,Male,RC1,Stat_1,April,28,2016,Beltway 8_Houston_TX,29.6004158,-95.34785,B,PD_0946
+2016336,Michael Kurtz,45,Male,RC2,Stat_5,April,28,2016,100 S State St_Spokane_WA,47.6563476,-117.41205,B,PD_0325
+2016337,Lee Easter,54,Male,RC2,Stat_2,April,28,2016,10000 W Spring River St_Boise_ID,43.5532894,-116.3163291,B,PD_0947
+2016338,Jeffrey Hobbs,48,Male,RC2,Stat_1,April,29,2016,17742 MO-177_Jackson_MO,37.4704636,-89.5701252,B,PD_0948
+2016339,Mark Bess,33,Male,RC2,Stat_5,April,30,2016,4500 S 3200 W_Spanish Fork_UT,40.1486154,-111.7304299,B,PD_0949
+2016340,Bender Dass,55,Male,RC2,Stat_6,April,29,2016,N Gary Rd and E Empire Blvd_San Tan Valley_AZ,33.2053801,-111.5826117,B,PD_0950
+2016341,Oswald 'Ozzie' Mattner,42,Male,RC2,Stat_5,April,30,2016,725 Gilbert St_Wasau_WI,44.979107,-89.620051,B,PD_0951
+2016342,Charlin Charles,25,Male,RC1,Stat_3,May,1,2016,Orange Blossom Trail and Carter St_Orlando_FL,28.5347101,-81.3972696,B,PD_0092
+2016343,Marion Haba,28,Male,RC4,Stat_5,April,30,2016,Parthenia St and Orion Ave_Los Angeles_CA,34.228302,-118.472028,B,PD_0050
+2016344,Abelino Cordova-Cuevas,28,Male,RC3,Stat_1,March,7,2016,El Dorado St and E Clay St_Stockton_CA,37.9398679,-121.286277,D,PD_0009
+2016345,Steve Davis,47,Male,RC2,Stat_2,February,6,2016,OH-309 and Co Rd 106_Kenton_OH,40.6607925,-83.6453345,B,PD_0952
+2016346,Christopher Davis,21,Male,RC1,Stat_1,February,24,2016,N8416 County Rd ES_East Troy_WI,42.7964607,-88.3846995,B,PD_0953
+2016347,Thomas Lagano,52,Male,RC2,Stat_2,March,30,2016,200 James Moore Dr_Jackson_GA,33.2820375,-83.9633343,B,PD_0954
+2016348,Jerand Ross,24,Male,RC1,Stat_2,February,11,2016,6603 Church St_Riverdale_GA,33.5763366,-84.4169863,B,PD_0955
+2016349,Rold Branch,28,Male,RC2,Stat_2,May,1,2016,2000 Colvett Rd_Alamo_TN,35.8585678,-89.1277472,B,PD_0956
+2016350,Raymond Hopper,59,Male,RC2,Stat_5,May,3,2016,2600 E Delta Ave_Visalia_CA,36.3426444,-119.2638562,B,PD_0407
+2016351,Cayce Ditullio,39,Male,RC2,Stat_2,May,4,2016,21st Ave SW_Burien_WA,47.4582346,-122.3605272,B,PD_0957
+2016352,Richard Ferretti,52,Male,RC2,Stat_8,May,4,2016,Overbrook Ave and Lancaster Ave_Philadelphia_PA,39.9872883,-75.2518804,B,PD_0379
+2016353,Gerry Thompson,40,Male,RC2,Stat_7,May,4,2016,_Buffalo_MO,,,B,PD_0948
+2016354,Matthew Tucker,18,Male,RC1,Stat_5,May,4,2016,32600 Hislop Way_Temecula_CA,33.477817,-117.090189,B,PD_0958
+2016355,Deresha Armstrong,26,Female,RC1,Stat_2,May,5,2016,West Colonial Dr_Orlando_FL,28.5526568,-81.4413477,B,PD_0101
+2016356,Burt Johnson,38,Male,RC1,Stat_2,May,5,2016,N 76th St and W Mill Road_Milwaukee_WI,43.1340836,-88.0058937,B,PD_0163
+2016357,Corey DiGiovanni,36,Male,RC2,Stat_7,May,5,2016,Westbank Expressway_Gret_LA,29.9189404,-90.0448838,B,PD_0959
+2016358,Rold Williams Jr,23,Male,RC1,Stat_2,May,6,2016,119 Marie Ave_Weirton_WV,40.410153,-80.537411,B,PD_0960
+2016359,Alton Witchard,37,Male,RC1,Stat_2,May,7,2016,22nd St S and 21st Ave S_St Petersburg_FL,27.7495758,-82.6630476,B,PD_0961
+2016360,than Cates,29,Male,RC2,Stat_2,May,7,2016,5700 123rd Ave NE_Lake Stevens_WA,48.0480039,-122.0650706,B,PD_0962
+2016361,Lionel Gibson,21,Male,RC1,Stat_3,May,7,2016,Locust Ave and E 21st St_Long Beach_CA,33.7953015,-118.1910731,B,PD_0290
+2016362,Jaffort Smith,33,Male,RC1,Stat_2,May,9,2016,Acker St E and Buffalo St_St Paul_MN,44.9643921,-93.093175,B,PD_0963
+2016363,Christian Bowman,23,Male,RC2,Stat_1,May,9,2016,8011 Tucker Rd_St Martin_MS,30.4584812,-88.8443671,B,PD_0921
+2016364,Michael Johnson,26,Male,RC2,Stat_2,May,9,2016,4900 S Karlov Ave_Chicago_IL,41.8040499,-87.7262609,B,PD_0275
+2016365,Willie Tillman,33,Male,RC1,Stat_1,April,23,2016,E Sunbridge Dr_Fayetteville_AR,36.0979459,-94.154047,B,PD_0964
+2016366,Derek Sam,29,Male,RC2,Stat_5,May,7,2016,631 Main St_Presque Isle_ME,46.6856865,-68.0143427,B,PD_0965
+2016367,Arthur Williams Jr,33,Male,RC1,Stat_3,May,9,2016,10929 Dizzy Dean Pl_El Paso_TX,31.9299176,-106.4183859,B,PD_0023
+2016368,Jamie Stotts,29,Male,RC2,Stat_2,May,9,2016,Woden Rd and County Road 509_cogdoches_TX,31.5370102,-94.576469,B,PD_0966
+2016369,Stephen Schuster,35,Male,RC2,Stat_2,May,11,2016,7700 S Quatar Ct_Aurora_CO,39.608039,-104.7325942,B,PD_0043
+2016370,Arthur DaRosa,28,Male,RC1,Stat_5,May,10,2016,2 Galleria Mall Dr #247_Taunton_MA,41.8643543,-71.0519346,B,PD_0967
+2016371,Sean Mondragon,24,Male,RC1,Stat_2,May,11,2016,US-85 and 31st St_Evans_CO,40.3845809,-104.6906989,B,PD_0412
+2016372,Thongsoune Vilaysane,30,Male,RC4,Stat_6,May,11,2016,Pagel Pl_San Diego_CA,32.7045935,-117.0557605,B,PD_0306
+2016373,Stephen Godfrey,69,Male,RC2,Stat_2,May,11,2016,_Byng_OK,,,B,PD_0968
+2016374,Ryan Johnson,34,Male,RC2,Stat_7,May,14,2016,400 Swan Lake Rd_Stockbridge_GA,33.5878909,-84.1915468,B,PD_0969
+2016375,Francis Clark,43,Male,RC6,Stat_2,May,14,2016,3737 W McDowell Rd_Phoenix_AZ,33.4653429,-112.1402939,B,PD_0072
+2016376,Jeffrey Sims,59,Male,RC2,Stat_2,May,14,2016,1400 State Rte 415_Osteen_FL,28.8998336,-81.13416,B,PD_0160
+2016377,James Simpson,31,Male,RC1,Stat_2,March,31,2016,9898 N Fast Elk St_Las Vegas_NV,36.3281664,-115.2959836,B,PD_0456
+2016378,Michael Gaffney,37,Male,RC2,Stat_7,May,13,2016,999 Rosemont Ave N_Union_NJ,40.6954213,-74.2709648,B,PD_0570
+2016379,Cody Marsh,19,Male,RC2,Stat_5,May,14,2016,253 E State St_Jacksonville_FL,30.3326538,-81.6527011,B,PD_0201
+2016380,Scott Macomber,48,Male,RC2,Stat_1,May,16,2016,Bay St_Fall River_MA,41.6871193,-71.1836019,D,PD_0970
+2016381,Jabril Robinson,23,Male,RC1,Stat_2,May,16,2016,1500 Cheryl Leigh Dr_Riverdale_GA,33.5767104,-84.439743,B,PD_0955
+2016382,Dracy Pendleton,35,Male,RC2,Stat_2,May,15,2016,Shawnee tiol Forest_Eddyville_IL,,,B,PD_0971
+2016383,Garry Conrad,46,Male,RC2,Stat_5,May,18,2016,810 8th Ave_New York_NY,40.7618119,-73.9860701,B,PD_0972
+2016384,Luke Sanders,36,Male,RC2,Stat_4,May,17,2016,799 99-97 Cutoff_Montague_CA,41.6471941,-122.5204362,B,PD_0973
+2016385,Joseph Weatherby,44,Male,RC2,Stat_2,May,18,2016,1617 S Service Road_West Sullivan_MO,38.226325,-91.155663,B,PD_0948
+2016386,Israel Santos-Banos,19,Male,RC3,Stat_2,May,18,2016,7700 S 48th Ln_Phoenix_AZ,33.3761771,-112.1640246,B,PD_0072
+2016387,Jeremias Cruz,30,Male,RC3,Stat_1,May,19,2016,2140 N Las Vegas Blvd_North Las Vegas_NV,36.198608,-115.1237902,B,PD_0456
+2016388,Jessica Williams,29,Female,RC1,Stat_1,May,19,2016,Shafter Ave and Elmira St_San Francisco_CA,37.7385146,-122.4039197,B,PD_0006
+2016389,Jaime Ide,35,Male,RC3,Stat_5,May,19,2016,Birdcage St_Citrus Heights_CA,38.674054,-121.2762639,B,PD_0418
+2016390,Kentrill Carraway,22,Male,RC1,Stat_2,May,19,2016,NW 20th Ave and NW 76th St_Miami_FL,25.8440512,-80.2304707,B,PD_0266
+2016391,Timothy Stacy,36,Male,RC2,Stat_2,May,19,2016,Kentucky Hwy 721_Fisty_KY,37.335066,-83.1016048,B,PD_0053
+2016392,Regild Dogan,53,Male,RC1,Stat_2,May,2,2016,Wade Hampton Blvd_Taylors_SC,34.9150332,-82.3195485,B,PD_0148
+2016393,Joshua Beebee,31,Male,RC1,Stat_5,May,20,2016,W Maple Rd and N 165th St_Omaha_NE,41.2920439,-96.1725607,B,PD_0079
+2016394,Mark Nelson,31,Male,RC6,Stat_2,May,21,2016,6630 Lumberjack Blvd_Flagstaff_AZ,35.2337599,-111.482375,B,PD_0974
+2016395,Norman Campbell,63,Male,RC2,Stat_2,May,21,2016,1716 Westfield Church Rd_Chesterfield_SC,34.8007731,-80.0311042,B,PD_0975
+2016396,Travis Moore,38,Male,RC2,Stat_4,May,21,2016,200 S 2nd St_Oregon City_OR,45.3514038,-122.614514,B,PD_0976
+2016397,Michael Wilson Jr,27,Male,RC1,Stat_1,May,22,2016,137 Golden Isles Dr_Hallandale Beach_FL,25.98187,-80.1239199,B,PD_0977
+2016398,Jorge Zambrano,35,Male,RC3,Stat_2,May,22,2016,Watch St_Oxford_MA,42.1913195,-71.9021433,B,PD_0413
+2016399,Bryson Fischer,28,Male,RC2,Stat_2,May,22,2016,Canyon Blvd and Broadway_Boulder_CO,40.0159199,-105.2793739,B,PD_0506
+2016400,Verl Bedonie,26,Male,RC6,Stat_2,May,23,2016,S Milton Rd_Flagstaff_AZ,35.185471,-111.6614677,B,PD_0978
+2016401,Vernell Bing Jr,22,Male,RC1,Stat_1,May,22,2016,E 9th St_Jacksonville_FL,30.3464393,-81.6412906,B,PD_0201
+2016402,Bodhi Phelps,22,Male,RC2,Stat_5,May,24,2016,SE 189th Ave and Grant St_Gresham_OR,45.5066362,-122.4690633,B,PD_0979
+2016403,Leslie Goletz,57,Male,RC2,Stat_7,May,24,2016,I-49_Peculiar_MO,38.7217881,-94.4539986,B,PD_0980
+2016404,Mario Montoya,31,Male,RC3,Stat_2,May,24,2016,312 Western Skies Dr SE_Albuquerque_NM,35.066028,-106.508489,B,PD_0907
+2016405,Derek Prophet,43,Male,RC2,Stat_5,May,25,2016,North Western and Sheridan Avenues_Oklahoma City_OK,35.4664734,-97.5300845,B,PD_0097
+2016406,Terry Frost,20,Male,RC1,Stat_2,May,25,2016,2692 Madison Rd_Cincinti_OH,39.146654,-84.444384,B,PD_0395
+2016407,Eugene Smith,29,Male,RC2,Stat_2,May,26,2016,2100 Minnehaha Ave E_St Paul_MN,44.962617,-93.011915,B,PD_0963
+2016408,Angel varro,25,Male,RC3,Stat_7,May,26,2016,I-25_Socorro_NM,34.0584024,-106.8916663,B,PD_0981
+2016409,Warren Christian,43,Male,RC2,Stat_2,May,26,2016,16831 Torrence Ave_Lansing_IL,41.5898888,-87.5566792,B,PD_0765
+2016410,Devonte Gates,21,Male,RC1,Stat_1,May,26,2016,Eastgate St_East St Louis_IL,38.6313534,-90.0947143,B,PD_0982
+2016411,Ferndo Castro,19,Male,RC3,Stat_2,May,26,2016,Fjord Dr_Solvang_CA,34.5881169,-120.1480949,B,PD_0983
+2016412,,45,Male,RC3,Stat_2,May,26,2016,2434 SW Loop 410_San Antonio_TX,29.406696,-98.6490599,B,PD_0188
+2016413,Tonnia Jarvis,48,Female,RC2,Stat_5,May,26,2016,Old Spanish Trail_Sneads_FL,30.7079275,-84.9404193,B,PD_0984
+2016414,Terry Edwards,59,Male,RC2,Stat_2,May,27,2016,100 W Gimber St_Indiapolis_IN,39.7273056,-86.1600544,B,PD_0587
+2016415,Todd Burroughs,38,Male,RC2,Stat_4,May,29,2016,Garrett Rd_Stoneville_NC,36.5342939,-79.8756352,B,PD_0985
+2016416,Dennis Humphrey,58,Male,RC2,Stat_2,May,28,2016,3900 Goodrich Avenue Northeast_Albuquerque_NM,35.128322,-106.601025,B,PD_0028
+2016417,John Coffey,53,Male,RC2,Stat_2,May,29,2016,100 Southeast Blvd_Clinton_NC,35.0055389,-78.3125258,B,PD_0986
+2016418,Osee Calix,33,Male,RC1,Stat_2,May,30,2016,N Columbus Blvd and E Fairmount St_Tucson_AZ,32.2398059,-110.9011857,B,PD_0153
+2016419,Robert Wickizer,70,Male,RC2,Stat_2,May,30,2016,SW Cheyenne Way_Tualatin_OR,45.3919537,-122.7768829,B,PD_0987
+2016420,Dennis Hudson,50,Male,RC1,Stat_7,May,28,2016,53410 Old US Hwy 78_Eastaboga_AL,33.6227391,-85.9794891,B,PD_0734
+2016421,Dionisio Garza III,25,Male,RC3,Stat_2,May,29,2016,Memorial Dr_Houston_TX,29.7638501,-95.5052686,B,PD_0047
+2016422,Dold Brown III,32,Male,RC2,Stat_5,May,29,2016,US-92_DeLand_FL,29.0283154,-81.3034421,B,PD_0160
+2016423,Doll Pierre-Louis,24,Male,RC1,Stat_1,May,25,2016,NW 167th St and NW 37th Ave_Miami Gardens_FL,25.9254445,-80.2605825,B,PD_0503
+2016424,Justin Addler,32,Male,RC2,Stat_4,May,16,2016,4490 W Reformatory Rd_Pendleton_IN,39.98302,-85.7601394,A,PD_0988
+2016425,Robert Diaz,28,Male,RC3,Stat_2,May,13,2016,E 7th St and S Lore St_Los Angeles_CA,34.0257106,-118.2022903,B,PD_0050
+2016426,Alexander Larmon,44,Male,RC2,Stat_1,May,8,2016,Interstate 40_Okemah_OK,35.4219685,-96.3031207,C,PD_0297
+2016427,Nicholas Berger,36,Male,RC2,Stat_5,May,31,2016,59800 South Highway 97_Bend_OR,44.0166536,-121.3190438,B,PD_0364
+2016428,Kevin Marshall,30,Male,RC2,Stat_2,June,1,2016,2020 N 75th Ave_Phoenix_AZ,33.4699006,-112.223402,B,PD_0072
+2016429,Randy Nelson,49,Male,RC1,Stat_1,February,3,2016,700 Market St W_Athens_AL,34.8042607,-86.979177,A,PD_0989
+2016430,Ernesto Carraman,41,Male,RC3,Stat_1,May,28,2016,1200 Crystal_San Antonio_TX,29.3769477,-98.5236764,A,PD_0188
+2016431,Scott Brunson,50,Male,RC2,Stat_1,January,25,2016,251 N 10th St_Sali_KS,38.8447786,-97.6145191,A,PD_0990
+2016432,Stephen Schenck,47,Male,RC2,Stat_5,January,25,2016,8800 11th Ave_Hesperia_CA,34.410533,-117.328775,A,PD_0991
+2016433,Darius Robinson,41,Male,RC1,Stat_1,April,4,2016,201 W Oklahoma Ave_Adarko_OK,35.0737343,-98.2459178,A,PD_0992
+2016434,Paul Gianelos,45,Male,RC2,Stat_1,April,20,2016,3320 Anndale Rd_Falls Church_VA,38.8544105,-77.1920293,A,PD_0993
+2016435,Lawrence Kindel,33,Male,RC2,Stat_1,February,2,2016,Donop Rd and Old Corpus Christi Road_Elmendorf_TX,29.29662,-98.3848831,C,PD_0399
+2016436,Wendell Celestine Jr,37,Male,RC1,Stat_1,February,5,2016,Biglow Dr and Gary Ave_Antioch_CA,37.9999609,-121.7938918,A,PD_0994
+2016437,Alex Zoucha,31,Male,RC2,Stat_1,February,24,2016,600 W 22nd Ave_Bellevue_NE,41.1375641,-95.9003268,D,PD_0995
+2016438,Torrey Robinson,35,Male,RC1,Stat_1,March,19,2016,9226 Dresden Ln_Port Richey_FL,28.291358,-82.679306,D,PD_0996
+2016439,Dallis Herndez,22,Male,RC2,Stat_7,March,16,2016,Gauntlet Hall Ln_Davie_FL,26.0402293,-80.3538613,B,PD_0997
+2016440,Daniel Pigg,51,Male,RC2,Stat_2,June,1,2016,Log Cabin Rd and Arthur Jackson Ln_Berea_KY,37.6044196,-84.2076269,B,PD_0804
+2016441,Alice Goudie,64,Female,RC2,Stat_1,March,28,2016,California Hwy 16_Plymouth_CA,38.454958,-120.8676067,C,PD_0194
+2016442,Michael Johnson,21,Male,RC1,Stat_2,June,1,2016,2 Amlajack Blvd_Newn_GA,33.3976071,-84.7549798,B,PD_0998
+2016443,Ollie Brooks,64,Male,RC1,Stat_1,May,28,2016,1011 S Garnett Rd_Tulsa_OK,36.149509,-95.8470888,A,PD_0999
+2016444,Inocencio Cardes Jr,38,Male,RC3,Stat_1,February,15,2016,200 S 7th St_Don_TX,26.1695891,-98.0568111,D,PD_1000
+2016445,Jothan Fowler,32,Male,RC2,Stat_1,February,12,2016,Lesley Dr_College Park_GA,33.6411709,-84.4561175,C,PD_1001
+2016446,William 'Meat-Meat' James,43,Male,RC1,Stat_8,June,2,2016,400 Chapel St_Norfolk_VA,36.8482508,-76.2820893,B,PD_0793
+2016447,Rodney Smith,18,Male,RC1,Stat_2,June,2,2016,7800 N Tryon St_Charlotte_NC,35.2946227,-80.7553009,B,PD_0129
+2016448,Daniel Shaham,31,Male,RC5,Stat_7,June,4,2016,92 W Louie Rd_Montague_CA,41.5528416,-122.4840255,B,PD_0194
+2016449,Larry Stepp,31,Male,RC2,Stat_5,June,4,2016,1317 W 18th St_Muncie_IN,40.173165,-85.401141,B,PD_0518
+2016450,Hubert Burns Jr,34,Male,RC6,Stat_5,June,3,2016,50 Homes Rd_Parker_AZ,33.9879818,-114.3984062,B,PD_1002
+2016451,Joshua Smith,33,Male,RC2,Stat_5,June,3,2016,E Jean Dr_Palmer_AK,61.5783435,-149.2776005,B,PD_0667
+2016452,Christopher Moran,31,Male,RC2,Stat_7,June,5,2016,5100 Skyline Blvd_Cape Coral_FL,26.5563556,-81.9906277,B,PD_0665
+2016453,Demarco Rhymes,35,Male,RC1,Stat_2,June,4,2016,Stephenson St_Eufaula_AL,31.8850329,-85.1492364,B,PD_1003
+2016454,ncy Friedrich,35,Female,RC2,Stat_4,May,10,2016,Oak St_Fort Worth_TX,32.6057866,-97.236049,D,PD_1004
+2016455,Kalyp Rapoza,25,Male,RC4,Stat_5,June,6,2016,Kanoelehua Ave and E Kawailani St_Hilo_HI,19.6848905,-155.0655771,B,PD_0156
+2016456,Henry Green,23,Male,RC1,Stat_2,June,6,2016,Ontario St and Duxberry Ave_Columbus_OH,40.0091729,-82.9771473,B,PD_0206
+2016457,Andrew Henson,25,Male,RC2,Stat_1,June,7,2016,S Polk Ave and SW 13th St_Wagoner_OK,35.9465885,-95.3836162,B,PD_1005
+2016458,Travis Wood,24,Male,RC2,Stat_1,February,18,2016,Federal Blvd and W 88th Ave_Westminster_CO,39.8562789,-105.0250706,C,PD_0945
+2016459,Willis Walker Jr,49,Male,RC1,Stat_2,June,7,2016,Gray St_Culpeper_VA,38.516649,-78.07073,B,PD_1006
+2016460,Jothan Watson,46,Male,RC2,Stat_1,April,25,2016,92-8691 Lotus Blossom Ln_Ocean View_HI,19.0851589,-155.7759255,A,PD_0156
+2016461,Richard Gonzalez,55,Male,RC3,Stat_1,March,16,2016,416 E 137th St_New York_NY,40.8079247,-73.9225993,A,PD_0287
+2016462,Michael Roll,52,Male,RC2,Stat_1,March,12,2016,William H tcher Pkwy_Bowling Green_KY,37.0259439,-86.533157,D,PD_1007
+2016463,William Jennings,49,Male,RC2,Stat_2,March,12,2016,Interstate 75_Birch Run_MI,43.2572679,-83.7826005,C,PD_0470
+2016464,Omar Villagomez,21,Male,RC3,Stat_1,June,7,2016,2300 W Main St_Turlock_CA,37.491722,-120.875485,B,PD_0652
+2016465,Weston Sites,15,Male,RC2,Stat_1,June,7,2016,I-5_Orland_CA,39.7824289,-122.0665547,C,PD_0194
+2016466,Carlos Garcia,43,Male,RC3,Stat_2,June,8,2016,3500 Bellefontaine Ave_Kansas City_MO,39.0624421,-94.5475239,B,PD_0597
+2016467,Hope Elferdink,38,Female,RC2,Stat_1,June,5,2016,McAllister Rd_Battle Creek_MI,42.3480939,-85.121946,B,PD_1008
+2016468,James Nickol,38,Male,RC2,Stat_2,June,9,2016,900 E Philadelphia St_York_PA,39.971617,-76.708418,B,PD_1009
+2016469,Clifford Tucker,68,Male,RC2,Stat_2,June,9,2016,200 Silver St_Ishpeming_MI,46.4837397,-87.7004771,B,PD_1010
+2016470,William 'David' Powell,63,Male,RC2,Stat_2,June,8,2016,690 Swan Lake Rd_Stockbridge_GA,33.595233,-84.18802,B,PD_0969
+2016471,William Hollis,34,Male,RC2,Stat_2,June,9,2016,5th Ave S and 30th St S_Birmingham_AL,33.5146936,-86.7877009,B,PD_1011
+2016472,John Brisco,52,Male,RC1,Stat_7,June,9,2016,3700 Hwy 365_Port Arthur_TX,29.9545569,-93.9852563,B,PD_1012
+2016473,Bobby Sanchez,32,Male,RC3,Stat_7,June,10,2016,W 27th St_Pueblo_CO,38.2951463,-104.6294764,B,PD_0066
+2016474,Juan Briseno-Ortega,50,Male,RC3,Stat_2,June,10,2016,2125 S 68th Ave_Yakima_WA,46.566223,-120.597066,B,PD_1013
+2016475,,,Male,RC3,Stat_4,June,9,2016,_Somerton_AZ,,,B,PD_0660
+2016476,Clayton Millsaps,29,Male,RC2,Stat_4,June,10,2016,Estes Rd_Statesville_NC,35.9660779,-80.935051,B,PD_0800
+2016477,Jesus Duran,31,Male,RC3,Stat_4,June,11,2016,5200 Coro Ave_Maywood_CA,33.99442,-118.193266,B,PD_0010
+2016478,Omar Mateen,29,Male,RC4,Stat_2,June,12,2016,1912 S Orange Ave_Orlando_FL,28.5196046,-81.3767987,B,PD_1014
+2016479,Daniel Edwards,23,Male,RC2,Stat_5,June,12,2016,Summit Way_Eagle Mountain_UT,40.3141834,-112.0002132,B,PD_0949
+2016480,Lyndarius Witherspoon,27,Male,RC1,Stat_2,June,11,2016,320 Monument Dr_Tupelo_MS,34.2497624,-88.7374794,B,PD_1015
+2016481,John Williams,61,Male,RC1,Stat_2,June,12,2016,6958 Coral Hill Rd_Glasgow_KY,37.0948814,-85.82099,B,PD_1016
+2016483,Michael Moore,18,Male,RC1,Stat_2,June,13,2016,Stanton Rd and Wagner St_Mobile_AL,30.706347,-88.09595,B,PD_1017
+2016484,Joshua Sciscm,33,Male,RC2,Stat_2,June,13,2016,1st Ave and Sunset St_Schenectady_NY,42.8017864,-73.9542946,B,PD_1018
+2016485,Edward Acquisto,80,Male,RC3,Stat_2,June,13,2016,Ford Farm Rd_Tiverton_RI,41.6558407,-71.1991445,B,PD_1019
+2016486,Noel Rodriguez,50,Male,RC3,Stat_6,June,13,2016,8711 Brynwood Dr_Boise_ID,43.64809,-116.290966,B,PD_0123
+2016487,Charles Todero,30,Male,RC2,Stat_1,May,29,2016,N Madison Ave and Camby St_Greenwood_IN,39.6246194,-86.1133476,D,PD_1020
+2016488,Mohammad Moghaddam,54,Male,RC7,Stat_2,June,14,2016,4215 Canyon Dr_Amarillo_TX,35.1701263,-101.8628157,B,PD_0757
+2016489,Kenneth Pointer,43,Male,RC2,Stat_7,June,14,2016,NE 10th Ave and NE 219th St_Ridgefield_WA,45.7796331,-122.661851,B,PD_0890
+2016490,Nicholas Ferro,47,Male,RC2,Stat_2,June,14,2016,N Outer Rd_Odessa_MO,39.0068576,-93.8884288,B,PD_1021
+2016491,Ferndo Geovanni LLanez,22,Male,RC3,Stat_7,June,14,2016,2300 Proctor Valley Rd_Chula Vista_CA,32.6616171,-116.9609065,B,PD_1022
+2016492,Russell Rosser,43,Male,RC2,Stat_6,June,15,2016,E Pine St and Dawson Rd_Tulsa_OK,36.1771352,-95.9337258,B,PD_0999
+2016493,Rold Delfino,21,Male,RC3,Stat_2,June,16,2016,Central Ave and Unsner Blvd_Albuquerque_NM,35.0770117,-106.722744,B,PD_0028
+2016494,Michael Rasmussen,38,Male,RC2,Stat_2,June,15,2016,US 141_Pembine_WI,45.6350217,-87.9905643,B,PD_1023
+2016495,Peter Grandpre,36,Male,RC2,Stat_2,June,16,2016,604 S Clark St_Butte_MT,46.006577,-112.545812,B,PD_1024
+2016496,Nicholas Damon,30,Male,RC3,Stat_6,June,16,2016,W 86th Ave and Sheridan Ct_Arvada_CO,39.8517585,-105.0540213,B,PD_0945
+2016497,John Anderson,59,Male,RC2,Stat_2,June,16,2016,7000 U.S. 20_Montpelier_OH,41.6395313,-84.6887873,B,PD_1025
+2016498,William Hennessey,34,Male,RC2,Stat_3,June,18,2016,Jordan Ln NW_Huntsville_AL,34.7266767,-86.6275012,B,PD_0352
+2016499,Sergey Makarenko,17,Male,RC2,Stat_7,June,18,2016,Horton Ln_Carmichael_CA,38.6353361,-121.3326764,B,PD_0664
+2016500,Antwun Shumpert,37,Male,RC1,Stat_1,June,18,2016,900 Harrison St_Tupelo_MS,34.2446283,-88.7196651,B,PD_1015
+2016501,Rashaun Lloyd,25,Male,RC1,Stat_2,June,19,2016,725 Randall Ave_Bronx_NY,40.8111657,-73.8932478,B,PD_0287
+2016502,Anthony Ford,30,Male,RC2,Stat_2,June,19,2016,_Fort Walton Beach_FL,30.4693578,-86.609825,B,PD_1026
+2016503,Clarence Howard,25,Male,RC1,Stat_1,June,19,2016,Emerson Dr NW and St Johns Heritage Pkwy_Palm Bay_FL,28.0322152,-80.7280611,B,PD_0170
+2016504,Raufeal Bostick,23,Male,RC1,Stat_2,June,20,2016,20751 Whyte Hardee Blvd_Hardeeville_SC,32.2826553,-81.0823224,B,PD_1027
+2016505,Devin Scott,20,Male,RC2,Stat_5,June,20,2016,Everglades Dr_Lake Havasu City_AZ,34.4941349,-114.3215425,B,PD_1028
+2016506,Lane Lesko,19,Male,RC2,Stat_3,June,21,2016,212 Greenfield Rd_Peterborough_NH,42.9104263,-71.9251864,B,PD_0523
+2016507,Pedro Cruz-Amado,24,Male,RC3,Stat_1,June,21,2016,1300 E Stage Coach Trail_Lawndale_NC,35.428688,-81.472989,B,PD_1029
+2016508,Jeffrey Hyde,50,Male,RC2,Stat_2,June,21,2016,E 1st St and N Fenway St_Casper_WY,42.8501061,-106.3053197,B,PD_1030
+2016509,Isaiah Core III,20,Male,RC1,Stat_6,June,22,2016,Oporto Madrid Blvd and Sunrise Dr_Birmingham_AL,33.5370401,-86.7194674,B,PD_1031
+2016510,Roger Ponce,37,Male,RC3,Stat_5,June,22,2016,1000 Mulberry Pl_Wellington_FL,26.6630095,-80.26468,B,PD_0636
+2016511,Josiah Williams,25,Male,RC2,Stat_2,June,22,2016,2622 Delta Dr_Colorado Springs_CO,38.7943014,-104.7680369,B,PD_1032
+2016512,Deravis 'Caine' Rogers,22,Male,RC1,Stat_1,June,23,2016,2100 Monroe Dr NE_Atlanta_GA,33.8106182,-84.3712689,B,PD_0167
+2016513,Jay Anderson,25,Male,RC1,Stat_2,June,23,2016,9800 W Glendale Ave_Wauwatosa_WI,43.102314,-88.033126,B,PD_0475
+2016514,Quencezola Splunge,44,Male,RC1,Stat_2,June,22,2016,6851 Highway 301_Walls_MS,34.9601304,-90.0966505,B,PD_1033
+2016515,Antonio Richardson,46,Male,RC1,Stat_5,June,22,2016,500 W Alma Ave_Flint_MI,43.0730333,-83.7103644,D,PD_1034
+2016516,Shaun Walke,31,Male,RC2,Stat_2,June,22,2016,2812 Nelius Rd_Bellville_TX,29.896476,-96.1876417,B,PD_1035
+2016517,Angelo Brown,35,Male,RC1,Stat_2,June,23,2016,Pheasantwood Dr_Belleville_IL,38.5479394,-90.007286,B,PD_1036
+2016518,Ismael Miranda,36,Male,RC1,Stat_2,June,24,2016,Summer St and Oak St_Paterson_NJ,40.9114951,-74.1636266,B,PD_1037
+2016519,Joshua Herrera,29,Male,RC3,Stat_2,June,24,2016,Fierro Rd_Hanover_NM,32.8728772,-108.0642154,B,PD_0250
+2016520,Rodrigo Guardiola,36,Male,RC3,Stat_1,June,25,2016,_Gainesville_GA,,,B,PD_0630
+2016521,Waldemar Bogusiewicz,59,Male,RC2,Stat_2,June,25,2016,6082 96th Terrace_Pinellas Park_FL,27.859371,-82.718396,B,PD_1038
+2016522,Dylan Noble,19,Male,RC2,Stat_1,June,25,2016,E Shields Ave and N Armstrong Ave_Fresno_CA,36.7794389,-119.6731028,B,PD_0527
+2016523,Christy Sheats,42,Female,RC2,Stat_2,June,24,2016,6000 Remson Hollow Ln_Katy_TX,29.7052076,-95.8384819,B,PD_1039
+2016524,Miguel Chavez-Angles,42,Male,RC3,Stat_4,June,24,2016,N Classen Blvd and NW 23rd St_Oklahoma City_OK,35.4932617,-97.5315862,B,PD_0097
+2016525,Randy Blecher,50,Male,RC2,Stat_2,June,24,2016,133 Neal St_Farmington_AR,36.041263,-94.234579,B,PD_0002
+2016526,Donte Johnson,30,Male,RC1,Stat_2,June,26,2016,1445 E Sibley Blvd_Dolton_IL,41.6224049,-87.5811052,B,PD_1040
+2016527,Germichael Kennedy,22,Male,RC1,Stat_2,June,26,2016,N 14th St_Lincoln_NE,40.8716218,-96.7010234,B,PD_0734
+2016528,Terry Maurer,51,Male,RC2,Stat_4,June,26,2016,8000 Clark Lake Rd_Clarklake_MI,42.1480819,-84.3259357,B,PD_1041
+2016529,Daniel Reyes,27,Male,RC3,Stat_5,June,26,2016,High Street Ext_Thomaston_CT,41.6893089,-73.0823414,B,PD_1042
+2016530,Blake Peacock,32,Male,RC2,Stat_2,June,27,2016,307 Georgia Hwy 257_Cochran_GA,32.3399625,-83.2884801,B,PD_1043
+2016531,Travis Vierra,26,Male,RC2,Stat_2,June,27,2016,Lagu Pueblo_Lagu_NM,35.0344872,-107.3878172,B,PD_0250
+2016532,Michael Disbrowe,28,Male,RC2,Stat_3,June,27,2016,332 W 2nd St_Boone_IA,42.0583515,-93.8962722,B,PD_1044
+2016533,Raymond Hutson,25,Male,RC2,Stat_3,June,27,2016,Delaware Route 1_Frederica_DE,39.0105162,-75.4588452,B,PD_0168
+2016534,Sherman Evans,63,Male,RC1,Stat_3,June,27,2016,100 Varnum St NE_Washington_DC,38.943109,-77.0056743,B,PD_0671
+2016536,Walden Dang,61,Male,RC5,Stat_5,June,28,2016,1212 Kiu St_Honolulu_HI,21.3025607,-157.8424265,B,PD_0191
+2016537,Barry Prak,27,Male,RC4,Stat_5,June,28,2016,2800 E 15th St_Long Beach_CA,33.7862296,-118.1589244,B,PD_0597
+2016538,Jessie Mills,30,Male,RC2,Stat_7,June,29,2016,Kentucky Hwy 223_Flat Lick_KY,36.9039817,-83.7426175,B,PD_0375
+2016539,Tyrone Reado,50,Male,RC1,Stat_7,June,29,2016,Luther Dr_Monroe_LA,32.4462802,-92.0992392,B,PD_1045
+2016540,Jasen Ramirez,44,Male,RC3,Stat_1,June,30,2016,302 S 5th St_Douglas_WY,42.756631,-105.3813316,B,PD_0832
+2016541,Kawme Patrick,25,Male,RC1,Stat_2,June,30,2016,1100 Lockhurst Rd_Columbus_OH,39.9294588,-82.9648165,B,PD_0206
+2016542,Michael Schumacher,41,Male,RC2,Stat_4,June,30,2016,1300 Morrison St_Madison_WI,43.081981,-89.3590442,B,PD_0164
+2016543,Tristan Vilters,24,Male,RC2,Stat_2,June,30,2016,_Guffey_CO,,,B,PD_0859
+2016544,Steven McQueen,30,Male,RC2,Stat_2,July,1,2016,11 Parmenter St_Cartersville_GA,34.178695,-84.821207,B,PD_1046
+2016545,Alexis Mishtowt,63,Male,RC2,Stat_7,July,1,2016,200 Bird Mountain Rd_Landrum_SC,35.1809299,-82.213308,B,PD_0259
+2016546,Helmut Wihowski,58,Male,RC2,Stat_5,July,1,2016,Stonewall Dr_Jackson_WI,43.3280841,-88.1536136,B,PD_1047
+2016547,Jothan Justice,50,Male,RC2,Stat_2,July,2,2016,1403 Bluff City Hwy_Bristol_TN,36.5568702,-82.2112562,B,PD_1048
+2016548,Jai Williams,35,Male,RC1,Stat_2,July,2,2016,275 Deaverview Rd_Asheville_NC,35.5821071,-82.6194633,B,PD_1049
+2016549,Lafayette Evans,37,Male,RC1,Stat_2,June,29,2016,1206 48th St_Fort Madison_IA,40.6257786,-91.3722731,B,PD_1050
+2016550,Keith Bursey,31,Male,RC1,Stat_2,June,10,2016,Slauson Ave and Brynhurst Ave_Los Angeles_CA,33.988995,-118.3329883,B,PD_0050
+2016551,Jamie Lee Brave Heart,28,Male,RC6,Stat_5,June,3,2016,US-18_Pine Ridge_SD,43.0256686,-102.5563,B,PD_1051
+2016552,Brian Steen,40,Male,RC2,Stat_1,May,20,2016,W Osborn Rd and N 3rd Ave_Phoenix_AZ,33.4875439,-112.0782226,A,PD_0072
+2016553,Mylynda Martinez,27,Female,RC3,Stat_1,May,13,2016,Bluff Lake Rd and Cardil Pines Dr_Mascotte_FL,28.59298,-81.8899087,C,PD_0234
+2016554,Kimberly King,46,Female,RC2,Stat_1,May,13,2016,Bluff Lake Rd and Cardil Pines Dr_Mascotte_FL,28.59298,-81.8899087,C,PD_0234
+2016555,David Anderson,36,Male,RC2,Stat_2,April,27,2016,4303 S 730 E_Murray_UT,40.678038,-111.870002,B,PD_1052
+2016556,Shannon Labit,40,Male,RC2,Stat_5,July,3,2016,620 McDold St_New Iberia_LA,30.0223653,-91.8178262,B,PD_1053
+2016557,Raul Saavedra-Vargas,24,Male,RC3,Stat_7,July,3,2016,N Virginia St and E Plaza St_Reno_NV,39.5288541,-119.8139116,B,PD_0726
+2016558,Pedro Villanueva,19,Male,RC3,Stat_1,July,3,2016,100 N Pritchard Ave_Fullerton_CA,33.8728163,-117.9736089,B,PD_0194
+2016559,Anthony Nunez,18,Male,RC3,Stat_2,July,4,2016,900 Feller Ave_San Jose_CA,37.367832,-121.8072647,B,PD_0110
+2016560,Delrawn Small,37,Male,RC1,Stat_1,July,4,2016,Atlantic Ave_Brooklyn_NY,40.6777246,-73.9344533,B,PD_0287
+2016561,,29,Male,RC1,Stat_7,July,4,2016,12531 Texas Hwy 34_Scurry_TX,32.4664708,-96.4306147,B,PD_1054
+2016562,Sidney Washington,21,Male,RC1,Stat_2,July,4,2016,4900 Quarles St NE_Washington_DC,38.908806,-76.931355,B,PD_1055
+2016563,Alton Sterling,37,Male,RC1,Stat_8,July,5,2016,2112 N Foster Dr_Baton Rouge_LA,30.4680058,-91.1394438,B,PD_0676
+2016564,William Patterson,34,Male,RC2,Stat_2,July,4,2016,Waltham Rd_North Charleston_SC,32.9569505,-80.0557343,B,PD_0251
+2016565,Sam Newby,49,Male,RC2,Stat_7,July,5,2016,Moraga Rd_Temecula_CA,33.5086756,-117.1405211,B,PD_0958
+2016566,Philando Castile,32,Male,RC1,Stat_8,July,6,2016,Larpenteur Ave W and St Mary's St_Falcon Heights_MN,44.9918158,-93.1689002,B,PD_1056
+2016567,Joshua Bolster,29,Male,RC2,Stat_7,July,5,2016,Oregon Hwy 22_Salem_OR,44.857137,-122.8746666,B,PD_0615
+2016568,Melissa Ventura,24,Female,RC3,Stat_5,July,5,2016,800 S Avenue C_Yuma_AZ,32.7130665,-114.667472,B,PD_1057
+2016569,Thomas Vandemark,65,Male,RC2,Stat_2,July,6,2016,_Rush Springs_OK,,,B,PD_1058
+2016570,Victor Sigala,19,Male,RC3,Stat_2,July,6,2016,500 N Azusa Ave_Covi_CA,34.0895297,-117.9077135,B,PD_0050
+2016571,Vinson Ramos,37,Male,RC3,Stat_5,July,7,2016,7120 Atlantic Ave_Bell_CA,33.9705896,-118.1875876,B,PD_1059
+2016572,Adam Smith,33,Male,RC2,Stat_6,July,7,2016,500 Helm Ave_Clovis_CA,36.8237579,-119.722421,B,PD_1060
+2016573,Micah Johnson,25,Male,RC1,Stat_2,July,7,2016,Main St_Dallas_TX,32.7829039,-96.7885925,E,PD_0103
+2016574,Earnest Fells,62,Male,RC1,Stat_2,July,7,2016,700 King St_Selma_AL,32.4111,-87.0326,B,PD_1061
+2016575,Alva Braziel,38,Male,RC1,Stat_2,July,9,2016,Cullen Blvd_Houston_TX,29.6648469,-95.3555415,B,PD_0047
+2016576,Abraham Smith,30,Male,RC2,Stat_5,July,8,2016,N 7th Ave and E Rillito St_Tucson_AZ,32.248146,-110.970364,B,PD_0153
+2016577,Andre Johnson,40,Male,RC1,Stat_2,July,9,2016,E 10th St and Norris Dr_Broken Bow_OK,34.036268,-94.731121,B,PD_1062
+2016578,Tyler Gebhard,20,Male,RC1,Stat_7,July,9,2016,_Lakeshire_MO,,,B,PD_0276
+2016579,Joseph Mann,51,Male,RC1,Stat_5,July,11,2016,Del Paso Blvd_Sacramento_CA,38.6133923,-121.4456224,B,PD_0328
+2016580,Orville Edwards,39,Male,RC1,Stat_2,July,11,2016,78th St_Brooklyn_NY,40.619914,-74.01142,B,PD_0287
+2016581,Jason Brooks,41,Male,RC1,Stat_2,July,11,2016,Gaty Ave and N 16th St_East St Louis_IL,38.6162371,-90.1455959,B,PD_1063
+2016582,Pablo Medi,41,Male,RC3,Stat_2,July,11,2016,8600 Wickham Rd_Romulus_MI,42.2422751,-83.3485312,B,PD_1064
+2016583,Larry Gordon,44,Male,RC2,Stat_2,July,11,2016,811 Port St_St Joseph_MI,42.1101154,-86.4772334,B,PD_1065
+2016584,Fermin Valenzuela,32,Male,RC3,Stat_1,July,2,2016,2600 W Broadway_Aheim_CA,33.8285913,-117.9759859,A,PD_0169
+2016585,Mary LenÌÄåÎÌÄå Pettiet,33,Female,RC2,Stat_1,February,15,2016,Texas Hwy 243 and Texas Hwy 64_Canton_TX,32.5465919,-95.8469626,C,PD_1066
+2016586,Gary Porter,41,Male,RC1,Stat_2,June,19,2016,Gifford St_Syracuse_NY,43.043165,-76.164053,B,PD_0837
+2016587,Benjamin Zeckovic,23,Male,RC2,Stat_4,July,12,2016,400 Rodeo Pl_Anchorage_AK,61.2184144,-149.8139829,B,PD_0105
+2016588,Danny Cupps Jr,36,Male,RC2,Stat_1,July,12,2016,5200 Lewisburg Rd_Birmingham_AL,33.5771199,-86.8092054,D,PD_0228
+2016589,Dold Myers,32,Male,RC2,Stat_1,July,13,2016,E Cir View Dr and N Clearview Dr_Flagstaff_AZ,35.1962719,-111.633332,B,PD_1067
+2016590,Roger Bales,56,Male,RC2,Stat_1,June,30,2016,East South Avenue_Ponca City_OK,36.6951282,-97.0665733,D,PD_1068
+2016591,Richard Dinneny,53,Male,RC2,Stat_3,July,13,2016,Overlook Dr_Middletown_NY,41.428114,-74.4279813,B,PD_1069
+2016592,Dayten Harper,33,Male,RC1,Stat_2,July,14,2016,2300 Winchester St_Baltimore_MD,39.3017596,-76.6536266,B,PD_0064
+2016593,Bobby Horne,63,Male,RC2,Stat_2,July,15,2016,Upper White Store Rd_Peachland_NC,34.9562812,-80.2904769,B,PD_0699
+2016594,Billy Smith,31,Male,RC2,Stat_2,July,16,2016,3300 Citation Dr_Green Cove Springs_FL,30.036434,-81.801496,B,PD_1070
+2016595,Cody Jarrett,26,Male,RC2,Stat_2,July,16,2016,Mountain View Ave_San Berrdino_CA,34.0764888,-117.2436306,B,PD_0113
+2016596,Jermaine Johnson,42,Male,RC1,Stat_2,July,17,2016,Debevoise Ave_Brooklyn_NY,40.7197493,-73.9393993,B,PD_0287
+2016597,Kevin Higgins,37,Male,RC2,Stat_2,July,17,2016,1401 Union Ave_Sheboygan_WI,43.731843,-87.723643,B,PD_1071
+2016598,Michael Ramsey Jr,43,Male,RC2,Stat_5,July,17,2016,2700 E Oklahoma St_Tulsa_OK,36.1753883,-95.9510835,B,PD_0999
+2016599,Gavin Long,29,Male,RC1,Stat_2,July,17,2016,Airline Hwy_Baton Rouge_LA,30.4364997,-91.0842322,B,PD_0597
+2016600,Andrew Esquivel,21,Male,RC3,Stat_1,July,17,2016,161 Bedford Ave_Brooklyn_NY,40.718402,-73.9567129,C,PD_0287
+2016601,Patrick Fennell,57,Male,RC2,Stat_2,July,16,2016,Sycamore Dr_Little Egg Harbor Township_NJ,39.570072,-74.3602146,B,PD_0597
+2016602,Jerry Brimer,56,Male,RC2,Stat_4,July,18,2016,2300 W 44th St_Tulsa_OK,36.0999705,-96.0185436,B,PD_0999
+2016603,Patrick O'Rourke,50,Male,RC2,Stat_4,July,17,2016,Louisia Hwy 16_Port Vincent_LA,30.333572,-90.8498264,D,PD_0038
+2016604,Javier Gao,31,Male,RC3,Stat_5,July,20,2016,1400 S Broadway and W Enos Drive_Santa Maria_CA,34.9341714,-120.4359405,B,PD_0380
+2016605,BJ Medeiros,36,Male,RC2,Stat_2,July,21,2016,Beach Rd_Keaau_HI,19.5995443,-154.9421404,B,PD_0156
+2016606,Derek Love,50,Male,RC1,Stat_2,July,21,2016,S Calumet Ave and E 18th St_Chicago_IL,41.8578447,-87.6195926,B,PD_0275
+2016607,Paul Yacabitis,50,Male,RC2,Stat_2,July,21,2016,Childers Run Rd_Buckhannon_WV,38.9980428,-80.1805551,B,PD_1072
+2016608,Austin Howard,49,Male,RC1,Stat_5,July,23,2016,2500 N 5th St_Milwaukee_WI,43.064079,-87.916632,B,PD_0163
+2016609,Berrd Wells III,31,Male,RC1,Stat_2,July,23,2016,12100 Central Ave_Chino_CA,34.033245,-117.6893565,B,PD_1073
+2016610,Steven Longoria,34,Male,RC3,Stat_2,July,23,2016,100 Olga St_San Antonio_TX,29.4125464,-98.5714054,B,PD_0188
+2016611,Robert Lourenco Jr,36,Male,RC2,Stat_2,July,24,2016,Stetson Ave_Winchester_CA,33.7293448,-117.067573,B,PD_1074
+2016612,Alvin Sylversmythe,29,Male,RC6,Stat_5,July,24,2016,Arnold St_Gallup_NM,35.5204888,-108.7588515,B,PD_1075
+2016613,Jamil Valladares,26,Male,RC3,Stat_2,June,26,2016,9525 Grovedale Cir_Riverview_FL,27.887825,-82.3469269,B,PD_0562
+2016614,Jeffrey Tyson,33,Male,RC1,Stat_2,July,25,2016,2700 Newton Ave_Indiapolis_IN,39.7644872,-86.1164041,B,PD_0037
+2016615,Richard Risher Jr,18,Male,RC1,Stat_2,July,25,2016,E 111th Pl and Antwerp St_Los Angeles_CA,33.9340327,-118.2485116,B,PD_0050
+2016616,Scot Mird,50,Male,RC2,Stat_2,July,26,2016,Hillview Rd_Merrill_WI,45.170654,-89.5923836,B,PD_1076
+2016617,Juan Duran,36,Male,RC3,Stat_2,July,26,2016,W Runyan Ave_Artesia_NM,32.8297,-104.412656,B,PD_1077
+2016618,Devon Martes,17,Male,RC1,Stat_2,July,27,2016,4013 N Interstate 10 Service Rd W_Metairie_LA,29.9987751,-90.1743334,B,PD_0207
+2016619,Dalvin Hollins,19,Male,RC1,Stat_1,July,27,2016,S Rural Rd and E Westchester Dr_Tempe_AZ,33.367391,-111.9286138,B,PD_0159
+2016620,Ambrose Mecklenburg,20,Male,RC2,Stat_5,July,27,2016,US-191_Malta_MT,48.359713,-107.8742133,B,PD_1078
+2016621,Michael Adams,33,Male,RC2,Stat_5,July,27,2016,200 Circle Dr_Estill Springs_TN,35.2686488,-86.1281653,B,PD_0463
+2016622,Dylan Liberti,24,Male,RC2,Stat_5,July,27,2016,9301 E Shea Blvd_Scottsdale_AZ,,,B,PD_0041
+2016623,Saddam Trejeda-Campos,24,Male,RC3,Stat_5,July,27,2016,1800 N Mt Vernon Ave_San Berrdino_CA,34.1318523,-117.3138129,B,PD_0113
+2016624,Humberto Martinez,32,Male,RC3,Stat_1,July,26,2016,4200 Hillview Dr_Pittsburg_CA,37.9974668,-121.8888549,A,PD_1079
+2016625,Jesus Rael,31,Male,RC3,Stat_2,July,28,2016,N Campbell Ave and E 8th St_Tucson_AZ,32.2251484,-110.9439538,B,PD_0153
+2016626,Paul O'Neal,18,Male,RC1,Stat_1,July,28,2016,7400 S Merrill Ave_Chicago_IL,41.760564,-87.572815,B,PD_0275
+2016627,Jorge Moreno-Aguirre,41,Male,RC3,Stat_2,July,28,2016,1st St and Richards Way_Sparks_NV,39.5506931,-119.7454859,B,PD_1080
+2016628,Donnell Thompson Jr,27,Male,RC1,Stat_1,July,28,2016,800 W Stockwell St_Compton_CA,33.9090419,-118.239205,B,PD_0010
+2016629,Omar Gonzalez,36,Male,RC3,Stat_2,July,28,2016,1200 Atwood Pl_Los Angeles_CA,34.0527735,-118.1933602,B,PD_0050
+2016630,Jeffrey Smith,47,Male,RC1,Stat_7,July,28,2016,Jefferson St_La Quinta_CA,33.6052349,-116.2678062,B,PD_0597
+2016631,Amanda Bivens,40,Female,RC2,Stat_2,July,29,2016,317 W Valley Ave_Homewood_AL,33.4684555,-86.8301412,B,PD_0132
+2016632,Melvin Faison,59,Male,RC2,Stat_2,July,29,2016,Big John Store Rd_Pleasant Hill_NC,36.5282616,-77.465153,B,PD_1081
+2016633,Limichael Shine,18,Male,RC4,Stat_5,July,31,2016,Robin St_Manchester Township_NJ,40.043209,-74.29312,B,PD_1082
+2016634,John Casey,32,Male,RC2,Stat_1,July,31,2016,Phillips Branch Rd_Phelps_KY,37.4915744,-82.1456368,B,PD_0053
+2016635,Mario Torres,38,Male,RC3,Stat_7,July,31,2016,400 W 2nd St_Wapato_WA,46.4469651,-120.4238441,B,PD_1083
+2016636,Bryan Byrd,43,Male,RC2,Stat_6,August,1,2016,100 Glenda Ct_Lexington_SC,33.8426724,-81.2011204,B,PD_0504
+2016637,Kenneth Bonno,67,Male,RC2,Stat_2,August,1,2016,100 Cool Springs Rd_Fredericksburg_VA,38.304992,-77.4431174,B,PD_1084
+2016638,Korryn Gaines,23,Female,RC1,Stat_2,August,1,2016,Sulky Ct_Randallstown_MD,39.3697181,-76.8136038,B,PD_0082
+2016639,Richard London,22,Male,RC2,Stat_2,August,2,2016,Ron Mcir Blvd_Lake City_SC,33.8859453,-79.7571665,B,PD_1085
+2016640,Preston Perez,48,Male,RC2,Stat_7,April,3,2016,Louisia Hwy 308_Raceland_LA,29.7283033,-90.5985601,B,PD_0038
+2016641,Matthew Conrad,34,Male,RC2,Stat_2,August,2,2016,I-84_Hammett_ID,42.9585104,-115.4667163,B,PD_1086
+2016642,Adam Klimek,31,Male,RC2,Stat_5,August,2,2016,300 4th Ave E_Alexandria_MN,45.88826,-95.3745575,B,PD_1087
+2016643,Demarco Newman,43,Male,RC1,Stat_2,August,2,2016,Lockheed St_Palm Bay_FL,27.9892643,-80.619161,B,PD_0137
+2016644,William Bowers,51,Male,RC2,Stat_1,August,2,2016,31500 Castaic Rd_Castaic_CA,34.4906651,-118.6176419,B,PD_0010
+2016645,Benjamin Heaton,31,Male,RC2,Stat_2,August,3,2016,456 Fern Dr_Clearfield_UT,41.120536,-112.022845,B,PD_1088
+2016646,Bradley Carey,54,Male,RC2,Stat_5,August,3,2016,Telegraph Rd_Detroit_MI,42.4149879,-83.2776128,B,PD_1089
+2016647,E.J. Walters Jr,69,Male,RC2,Stat_2,August,4,2016,Upper Possum Creek Rd_Gate City_VA,36.6196332,-82.7227576,B,PD_1090
+2016648,Johannes Wood,58,Male,RC2,Stat_5,August,5,2016,Carriage Horse Dr_Aldie_VA,38.9095803,-77.5698538,B,PD_1091
+2016649,Jamarion Robinson,26,Male,RC1,Stat_2,August,5,2016,4000 Seven Oaks Ln SW_East Point_GA,33.6444407,-84.4909856,B,PD_0832
+2016650,James Quealy,53,Male,RC2,Stat_2,August,5,2016,201 Woodland Dr_Beaver Dam_WI,43.4822913,-88.8227031,B,PD_1092
+2016651,Jawari Porter,25,Male,RC1,Stat_5,August,7,2016,500 Main Street_Cincinti_OH,39.1015857,-84.5097398,B,PD_0395
+2016652,Earl 'Shaleek' Pinckney,20,Male,RC1,Stat_5,August,7,2016,2300 Green St_Harrisburg_PA,40.2819019,-76.8986384,B,PD_1093
+2016653,Darnell Wicker,57,Male,RC1,Stat_5,August,8,2016,Broadleaf Dr_Louisville_KY,38.19793,-85.8409679,B,PD_0402
+2016654,Juan Godines,34,Male,RC3,Stat_7,August,8,2016,300 Midway Rd_Georgetown_KY,38.1835568,-84.6655453,B,PD_0053
+2016655,Michael McClurg,59,Male,RC2,Stat_2,August,8,2016,7000 Grenola Way_Citrus Heights_CA,38.6947737,-121.3001635,B,PD_0418
+2016656,Rold Smith,45,Male,RC2,Stat_2,August,9,2016,Five Points Pike_Mt Sterling_OH,39.6895627,-83.1896537,B,PD_1094
+2016657,Mary Knowlton,73,Female,RC2,Stat_1,August,9,2016,1410 Tamiami Trail_Punta Gorda_FL,26.9255054,-82.0466337,B,PD_1095
+2016658,Jesse Romero,14,Male,RC3,Stat_2,August,9,2016,N Breed St_Los Angeles_CA,34.048815,-118.2078127,B,PD_0050
+2016659,Jeffrey 'Allen' Morris,44,Male,RC2,Stat_8,August,9,2016,803 Mountain Springs Rd_Piedmont_SC,34.734235,-82.528663,B,PD_1096
+2016660,Marcus Sexton,22,Male,RC2,Stat_1,August,4,2016,Red Gate Dr_Little Rock_AR,34.6453463,-92.442732,A,PD_1097
+2016661,Rold Robbibaro,30,Male,RC2,Stat_1,August,5,2016,County Line Rd and US-41_Shady Hills_FL,28.4337137,-82.4619841,B,PD_0996
+2016662,Anthony Edwards,25,Male,RC2,Stat_1,July,25,2016,Doc Norton Rd_Walland_TN,35.8118206,-83.8134621,A,PD_1098
+2016663,Jeff Martelli,59,Male,RC2,Stat_2,August,11,2016,5800 S 152nd Pl_Tukwila_WA,47.4657892,-122.2614984,B,PD_1099
+2016664,Mark Sawaf,39,Male,RC2,Stat_1,August,11,2016,Woodland Hills_Harlan_KY,36.8272099,-83.3157269,B,PD_1100
+2016665,Jesus Carillo,22,Male,RC3,Stat_7,August,12,2016,N Country Club Dr and W McKellips Rd_Mesa_AZ,33.4514542,-111.8396639,B,PD_0305
+2016666,Dominic Rollice,49,Male,RC2,Stat_4,August,12,2016,400 E Shawnee St_Tahlequah_OK,35.913455,-94.9645989,B,PD_0425
+2016667,Ruben Strand,38,Male,RC3,Stat_5,August,13,2016,W Indian School Rd and N 43rd Ave_Phoenix_AZ,33.4949541,-112.1517066,B,PD_0072
+2016668,Sylville Smith,23,Male,RC1,Stat_2,August,13,2016,W Auer Ave and N 44th St_Milwaukee_WI,43.0770099,-87.9686401,B,PD_0163
+2016669,Perry Heitman,53,Male,RC2,Stat_2,August,13,2016,Sheridan Blvd and W 1st Ave_Lakewood_CO,39.7186493,-105.053264,B,PD_0597
+2016670,Kendrick Brown,18,Male,RC1,Stat_1,August,13,2016,130 W Oakland St_Monticello_AR,33.6339902,-91.7908464,D,PD_1101
+2016671,Fred Barlow,61,Male,RC1,Stat_1,August,9,2016,500 Union Avenue_Fairfield_CA,38.2469848,-122.040533,A,PD_1102
+2016672,Sergio Weick,33,Male,RC3,Stat_7,August,11,2016,Bronze Way_Vista_CA,33.195717,-117.258041,B,PD_0227
+2016673,Jovany Martinez,29,Male,RC3,Stat_4,August,15,2016,Gallows Rd_Anndale_VA,38.8493578,-77.2096853,B,PD_0100
+2016674,Danny Pirtle,42,Male,RC2,Stat_2,August,15,2016,100 Blackberry Way_Counce_TN,35.0356166,-88.2567004,B,PD_0832
+2016675,Michael Martin,36,Male,RC2,Stat_2,August,16,2016,Miller Rd and Dodgeville Rd_Rome_OH,41.5860478,-80.7960927,B,PD_1103
+2016676,Carl Nivins,32,Male,RC2,Stat_2,August,16,2016,935 Blowing Rock Blvd_Lenoir_NC,35.9285577,-81.5302121,B,PD_1104
+2016677,Kenney Watkins,18,Male,RC1,Stat_7,August,16,2016,W Century Blvd_Los Angeles_CA,33.9454705,-118.3773395,B,PD_0050
+2016678,Colby Friday,30,Male,RC1,Stat_2,August,16,2016,Jamestown St and Sousa St_Stockton_CA,37.9940239,-121.3029357,B,PD_0009
+2016679,Larry Kurtley Jr,53,Male,RC2,Stat_3,August,16,2016,100 W Tepee St_Apache Junction_AZ,33.429576,-111.5471821,B,PD_0392
+2016680,John O'Handley,55,Male,RC2,Stat_1,August,16,2016,US-50_Augusta_WV,39.2953487,-78.6377644,B,PD_1105
+2016681,Omer Ismail Ali,27,Male,RC1,Stat_4,August,17,2016,103 W Main St_Kelso_WA,46.1458995,-122.9166023,B,PD_1106
+2016682,Marcos Gastelum,24,Male,RC3,Stat_1,August,16,2016,South Leord Ave and W Floyd St_Tucson_AZ,32.1804215,-111.1610257,B,PD_1107
+2016683,Francisco Villarreal,37,Male,RC3,Stat_2,August,18,2016,800 Feliz Dr_Bakersfield_CA,35.3503345,-118.9908926,B,PD_0197
+2016684,James Jennings Jr,69,Male,RC2,Stat_2,August,8,2016,2100 Wash Lever Rd_Little Mountain_SC,34.2026082,-81.2622968,B,PD_1108
+2016685,David Fulton,59,Male,RC2,Stat_2,August,18,2016,1740 Sutter Rd_McKinleyville_CA,40.9360077,-124.0976461,B,PD_1109
+2016686,Joseph Weber,36,Male,RC2,Stat_1,August,18,2016,300 Timber Dr_Hays_KS,38.8813845,-99.3065032,B,PD_1110
+2016687,Chad Irwin,40,Male,RC2,Stat_5,August,18,2016,Andante Dr and Brahms Ct_Citrus Heights_CA,38.7130008,-121.3199864,B,PD_1111
+2016688,Jorge Ceniceros,22,Male,RC3,Stat_1,August,19,2016,E Thomas Rd and N 20th St_Phoenix_AZ,33.4802298,-112.0388414,B,PD_0072
+2016689,Marcelo Lu,40s,Male,RC3,Stat_4,August,19,2016,Sunset Blvd and Hobart Boulevard_Los Angeles_CA,34.0981085,-118.3056334,B,PD_0050
+2016690,Eric Soto,36,Male,RC2,Stat_7,August,13,2016,900 Cheryl Ann Cir_Hayward_CA,37.6357194,-122.0775153,B,PD_1112
+2016691,Trenton Lohman,38,Male,RC2,Stat_1,August,18,2016,Poway Rd and Espola Rd_Poway_CA,32.9697967,-117.0158513,B,PD_0227
+2016692,Kole Knight,31,Male,RC2,Stat_3,August,19,2016,Algoma St and Wallace St_New London_WI,44.384194,-88.735,B,PD_1113
+2016693,Kyle Zimbelman,29,Male,RC2,Stat_7,August,19,2016,N Virginia St and Stead Blvd_Reno_NV,39.6157676,-119.8822829,B,PD_1114
+2016694,David Klassen,29,Male,RC2,Stat_2,August,19,2016,Carrizo Canyon Rd_Ruidoso_NM,33.3134096,-105.6694468,B,PD_0330
+2016695,Todd Browning,54,Male,RC2,Stat_5,August,19,2016,1700 Prigmore Rd_Chattanooga_TN,34.98895,-85.2329139,B,PD_1115
+2016696,Brandon Coles,25,Male,RC1,Stat_2,August,21,2016,15700 Allen Dr_Dinwiddie_VA,37.0564211,-77.5628791,B,PD_1116
+2016697,Pedro Montanez,71,Male,RC3,Stat_5,August,21,2016,Jackson St and Dillon Ave_Indio_CA,33.7258506,-116.2163073,B,PD_0648
+2016698,Daniel Harris,29,Male,RC2,Stat_1,August,18,2016,Rocky River Rd and Interstate 485_Charlotte_NC,,,B,PD_0913
+2016699,Juan Torres,36,Male,RC3,Stat_5,August,21,2016,E Lohman Ave_Las Cruces_NM,32.3157293,-106.7441918,B,PD_1117
+2016701,Kelley Forte,34,Male,RC1,Stat_5,August,22,2016,1090 High St_Hamilton_OH,39.3966036,-84.5488378,B,PD_0239
+2016702,Silivenusi Ravono,46,Male,RC4,Stat_1,August,18,2016,250 Bon Air Rd_Greenbrae_CA,37.9473222,-122.5361197,A,PD_1118
+2016703,Mistie Reynolds,33,Female,RC2,Stat_1,August,12,2016,2294 E Irlo Bronson Memorial Hwy_Kissimmee_FL,28.2831536,-81.3513823,B,PD_1119
+2016704,Elias Portillo,36,Male,RC3,Stat_2,August,24,2016,3700 W Davis St_Dallas_TX,32.7495798,-96.8797701,B,PD_0103
+2016705,William Charbonneau,43,Male,RC2,Stat_2,August,24,2016,3826 Marsh Lilly Dr_Orlando_FL,28.506715,-81.149486,B,PD_0101
+2016706,Jeffrey Hosea,53,Male,RC2,Stat_2,August,24,2016,905 E Lane St_Shelbyville_TN,35.4878656,-86.4374584,B,PD_1120
+2016707,Jerry Jackson,63,Male,RC5,Stat_5,August,25,2016,900 US-287_Fort Collins_CO,40.6253415,-105.0919871,B,PD_1121
+2016708,Donta Taylor,31,Male,RC1,Stat_7,August,25,2016,W Arbutus St and N Kemp Ave_Compton_CA,33.899203,-118.2399461,B,PD_0010
+2016709,David Coborubio,32,Male,RC3,Stat_7,August,25,2016,S White Ave_Compton_CA,33.888819,-118.1946483,B,PD_0589
+2016711,Angel Torres Jr,25,Male,RC3,Stat_3,August,27,2016,W Thomas Rd and N 57th Ave_Phoenix_AZ,33.4805244,-112.1821158,B,PD_0072
+2016712,Terry Salazar,49,Male,RC3,Stat_5,August,27,2016,S Fox St and W Ellsworth Ave_Denver_CO,39.7165937,-104.9951738,B,PD_0068
+2016713,Matthew Gibbon,41,Male,RC2,Stat_2,August,26,2016,Boulder Hwy_Las Vegas_NV,36.1105549,-115.0616081,B,PD_1122
+2016714,Darrel Hetrick,82,Male,RC2,Stat_2,August,27,2016,Price Hill Rd_Morgantown_WV,39.601993,-79.9985109,B,PD_1123
+2016715,Justin Kulhanek-Derks,37,Male,RC2,Stat_2,August,28,2016,1200 Ironwood Ln_Eagan_MN,44.8271053,-93.1579229,B,PD_1124
+2016716,Jaqwan Terry,24,Male,RC1,Stat_2,August,29,2016,311 Dold Ross Dr_Raleigh_NC,35.777326,-78.591354,B,PD_0868
+2016717,Michael Peacor,56,Male,RC2,Stat_5,August,29,2016,1000 W 16th St_San Berrdino_CA,34.1286968,-117.3055226,B,PD_0113
+2016718,Alfred Toe,34,Male,RC1,Stat_1,August,27,2016,Roosevelt St_Trenton_NJ,40.2328275,-74.7659134,B,PD_0362
+2016719,Michael Gaskill,63,Male,RC2,Stat_2,August,25,2016,NW Cal Blvd_Redmond_OR,44.2993513,-121.1695478,C,PD_1125
+2016720,Paula Phillips,35,Female,RC2,Stat_2,August,29,2016,Broadway Ave_Kingman_AZ,35.1945053,-114.0344356,B,PD_1126
+2016721,Justin Baker,36,Male,RC2,Stat_4,August,30,2016,9000 262nd St E_Graham_WA,47.0187977,-122.3121642,B,PD_1127
+2016722,Levonia Riggins,22,Male,RC1,Stat_1,August,30,2016,1432 Longwood Loop_Tampa_FL,27.933783,-82.36417,B,PD_0562
+2016723,Lyle Blanchard,59,Male,RC2,Stat_7,August,30,2016,W FM 2410 Rd_Harker Heights_TX,31.052583,-97.6206734,B,PD_1128
+2016724,James Richards,28,Male,RC6,Stat_2,August,30,2016,S Cushman St and 15th Ave_Fairbanks_AK,64.8347316,-147.7174122,B,PD_1129
+2016725,Gregory Mathis,36,Male,RC2,Stat_5,August,30,2016,111 I-20 Frontage Rd_Weatherford_TX,32.728296,-97.791139,B,PD_0420
+2016726,Michael Ferguson,21,Male,RC2,Stat_1,August,31,2016,2600 W Bates Ave_Denver_CO,39.663302,-105.018626,B,PD_0068
+2016727,Ed Holup,60,Male,RC2,Stat_6,September,1,2016,Friedly Dr_Toledo_OH,41.7225306,-83.6482046,B,PD_1130
+2016728,David Moya,31,Male,RC2,Stat_4,August,5,2016,Woodglen Vista Dr_Santee_CA,32.8660576,-116.9765015,B,PD_0227
+2016729,James Burgess,63,Male,RC2,Stat_2,August,8,2016,Congo Rd_Wilkesboro_NC,36.1579334,-81.237876,B,PD_0415
+2016730,Bobby Buck,49,Male,RC2,Stat_7,August,24,2016,N Sanders_Myra_TX,33.6250179,-97.3182959,B,PD_1131
+2016731,James Stuart,39,Male,RC2,Stat_7,July,20,2016,31 Marion Ave_Waterbury_CT,41.5700239,-73.0638164,B,PD_1132
+2016732,Kaylee Sawyer,23,Female,RC2,Stat_1,July,24,2016,_Bend_OR,,,C,PD_1133
+2016733,Manuel De La Cruz,26,Male,RC3,Stat_1,August,1,2016,2555 Jimmy Johnson Blvd_Port Arthur_TX,29.9354166,-93.988752,A,PD_1012
+2016734,Caleb Douglas,18,Male,RC2,Stat_2,September,1,2016,1100 N Tyler Rd_Wichita_KS,37.7025306,-97.444348,B,PD_1134
+2016735,Joshua Quintero,23,Male,RC3,Stat_2,September,1,2016,1700 E 83rd St_Los Angeles_CA,33.9625274,-118.2431037,B,PD_0010
+2016736,,,Male,RC3,Stat_4,September,1,2016,2400 E 57th St_Huntington Park_CA,33.9911063,-118.2302688,B,PD_1135
+2016737,Richard Swihart,32,Male,RC2,Stat_1,August,1,2016,600 N Ross St_Santa A_CA,33.7499254,-117.8724657,B,PD_0149
+2016738,Joseph Moreno,38,Male,RC3,Stat_2,September,2,2016,600 S Florida Ave_Alamogordo_NM,32.8850539,-105.9523438,B,PD_1136
+2016739,Randall Rodick,40,Male,RC2,Stat_2,September,2,2016,9250 Crown Crest Blvd_Parker_CO,39.5521605,-104.7698473,B,PD_1137
+2016740,Michael Thompson Jr,38,Male,RC1,Stat_2,September,2,2016,900 Harlan Ave_St Louis_MO,38.721995,-90.2319349,B,PD_1138
+2016741,Michael Musson,22,Male,RC2,Stat_4,September,2,2016,0 N Macgillis Dr_Round Lake_IL,42.3490919,-88.0882711,B,PD_1139
+2016742,Donny Daugherty,36,Male,RC2,Stat_2,September,3,2016,_Massac County_IL,,,B,PD_0794
+2016743,Cameron Ayers,25,Male,RC2,Stat_7,September,3,2016,200 Bellevue St NW_East Wetchee_WA,47.439539,-120.302783,B,PD_1140
+2016744,Jerome Damon,25,Male,RC1,Stat_2,September,3,2016,2100 Pacific Ave_Atlantic City_NJ,39.3563512,-74.435708,B,PD_0446
+2016745,Jeremiah Ramirez,27,Male,RC3,Stat_2,September,3,2016,S 25th St and W Avenue G_Temple_TX,31.0933242,-97.3567946,B,PD_1141
+2016746,Simon Gomez,44,Male,RC3,Stat_5,September,4,2016,28 1/2 Road and North Ave_Grand Junction_CO,39.0772878,-108.5244383,B,PD_0341
+2016747,Jose Romero,,Male,RC3,Stat_5,September,4,2016,1600 Obispo Ave_Long Beach_CA,33.7871469,-118.1545695,B,PD_0290
+2016748,Cesar Garcia,35,Male,RC3,Stat_2,September,5,2016,12500 Tech Ridge Blvd_Austin_TX,30.3990005,-97.6657754,B,PD_0063
+2016749,Moses Ruben,36,Male,RC1,Stat_6,September,5,2016,1700 N Kaufman St_Ennis_TX,32.343062,-96.632019,B,PD_1142
+2016750,Steven Del Rio,31,Male,RC3,Stat_7,September,6,2016,I-10 and W Baseline Rd_Tempe_AZ,,,B,PD_0072
+2016751,David Anderson,25,Male,RC2,Stat_7,September,6,2016,Q St and S 22nd St_Omaha_NE,41.2055743,-95.9442922,B,PD_0511
+2016752,Berrd Cottrell,65,Male,RC2,Stat_2,September,6,2016,WV Route 14 and Randolph Rd_Spencer_WV,38.8514152,-81.3987875,B,PD_0597
+2016753,Larry Whitehead,70,Male,RC2,Stat_2,September,6,2016,Moody Ln_Gray_TN,36.3770198,-82.465029,B,PD_0002
+2016754,Dylan Papa,25,Male,RC2,Stat_5,September,6,2016,Thomas Rd_Phoenix_AZ,33.4806915,-112.1086896,B,PD_0072
+2016755,Jesse Joynt,35,Male,RC2,Stat_2,September,7,2016,Bar Ave and Harrison St_Titusville_FL,28.585739,-80.8188078,B,PD_1143
+2016756,Robert Brown,55,Male,RC1,Stat_4,September,7,2016,500 S Madison St_Albany_GA,31.5707126,-84.1618777,B,PD_1144
+2016757,Thomas Sekscinski,38,Male,RC2,Stat_6,August,31,2016,Camp Bliss Road_Vero_MO,36.849004,-93.7701249,B,PD_0043
+2016758,Sadiq Idris,25,Male,RC1,Stat_2,September,7,2016,Eastern Ave SE and 32nd St SE_Wyoming_MI,42.9055942,-85.6466878,B,PD_1145
+2016759,Francis Perry,32,Male,RC2,Stat_2,September,7,2016,2737 Golfview St_Lakeland_FL,28.05266,-81.90536,B,PD_1146
+2016760,Jose Torres,38,Male,RC3,Stat_2,September,8,2016,16200 Harmony Ranch Dr_Delhi_CA,37.422179,-120.780587,B,PD_1147
+2016761,Ricardo Tenorio,32,Male,RC3,Stat_2,September,8,2016,1100 Ingram Blvd_West Memphis_AR,35.1601333,-90.1590106,B,PD_1031
+2016762,Travis Ell,64,Male,RC2,Stat_7,September,9,2016,800 Pike St NE_Auburn_WA,47.3169871,-122.2098791,B,PD_0919
+2016763,Gregory Frazier,56,Male,RC1,Stat_8,September,9,2016,320 NW 14th St_Pompano Beach_FL,26.24471,-80.127601,B,PD_1148
+2016764,Dennis Stanley,69,Male,RC2,Stat_3,September,10,2016,Lorton Lick Rd_Montcalm_WV,37.3507085,-81.2513781,B,PD_1149
+2016765,Terrence Sterling,31,Male,RC1,Stat_1,September,11,2016,M St NW and 3rd St NW_Washington_DC,38.9056546,-77.0152305,B,PD_0671
+2016766,Markell Bivins,25,Male,RC1,Stat_5,September,12,2016,1735 Edgewood Rd NW_Cedar Rapids_IA,41.9911252,-91.7154683,B,PD_0659
+2016767,Eugene Craig,86,Male,RC2,Stat_2,September,12,2016,Titus Avenue_Saratoga_CA,37.2883058,-122.0098917,B,PD_0573
+2016768,Christian Vargas,25,Male,RC3,Stat_7,September,12,2016,900 E C St_Colton_CA,34.0717571,-117.310694,B,PD_1150
+2016769,Tyre King,13,Male,RC1,Stat_3,September,14,2016,27 Hoffman Ave_Columbus_OH,39.964563,-82.97469,B,PD_0206
+2016770,Morgan Crocker,34,Male,RC2,Stat_2,September,15,2016,4200 Monterey Oaks Blvd_Austin_TX,30.2293324,-97.8331352,B,PD_0063
+2016771,Robert Carrillo,32,Male,RC3,Stat_2,September,15,2016,S 21st St and E Watkins St_Phoenix_AZ,33.425805,-112.0368802,B,PD_0072
+2016772,Terrill Thomas,38,Male,RC1,Stat_1,April,24,2016,949 N 9th St_Milwaukee_WI,43.0426293,-87.9237185,A,PD_1151
+2016773,Cody Franklin,20,Male,RC2,Stat_1,May,11,2016,101 W Main St_Ozark_AR,35.4858999,-93.8253724,A,PD_0463
+2016774,Nikki Bascom,31,Female,RC2,Stat_1,April,21,2016,1300 Serin Ct_Silver City_NM,32.790604,-108.262758,B,PD_1152
+2016775,Dold Degraw,58,Male,RC2,Stat_1,September,7,2016,1739 Split Fork Dr_Oldsmar_FL,28.0465225,-82.6884162,D,PD_0961
+2016776,Timothy McMillan,38,Male,RC2,Stat_1,September,13,2016,6910 Rosemead Blvd_San Gabriel_CA,34.1236389,-118.0725671,A,PD_0010
+2016777,Dustin Jones,32,Male,RC2,Stat_1,March,23,2016,106 Santa Rosa Blvd_Okaloosa Island_FL,30.397104,-86.599895,B,PD_0829
+2016778,Joseph Schlosser,69,Male,RC2,Stat_7,September,15,2016,10264 Ridge Top Loop_Weeki Wachee_FL,28.5579555,-82.5543755,B,PD_0760
+2016779,Thomas Mone III,46,Male,RC2,Stat_2,September,16,2016,Boo Boo Blvd_Hollister_MO,36.5567544,-93.2717573,B,PD_1153
+2016780,Jesse Beshaw,29,Male,RC6,Stat_1,September,16,2016,32 Malletts Bay Ave_Winooski_VT,44.4923278,-73.1911209,B,PD_1154
+2016781,Nicholas Glenn,25,Male,RC1,Stat_2,September,16,2016,100 S 48th St_Philadelphia_PA,39.95747,-75.2173264,B,PD_0379
+2016782,Terence Crutcher,40,Male,RC1,Stat_1,September,16,2016,36th St N and Lewis Ave_Tulsa_OK,36.2061183,-95.9582224,B,PD_0999
+2016783,Robert Young,45,Male,RC2,Stat_3,September,17,2016,8212 Bailey Cove Rd SE_Huntsville_AL,34.65885,-86.540007,B,PD_0352
+2016784,William Ryan,55,Male,RC2,Stat_2,September,17,2016,166 Monfredo St_Rutherfordton_NC,35.364946,-81.960233,B,PD_1155
+2016785,Lucas Anderson,29,Male,RC2,Stat_5,September,16,2016,600 Delray St_Owensboro_KY,37.7700344,-87.1472307,B,PD_0788
+2016786,Robert Duh,42,Male,RC2,Stat_4,September,17,2016,1695 E 6th St_Beaumont_CA,33.9289167,-116.9472844,B,PD_0874
+2016787,Dahir Adan,22,Male,RC1,Stat_5,September,17,2016,4101 Division St_St Cloud_MN,45.5534374,-94.2093614,B,PD_1156
+2016788,Adrian Shaffer,37,Male,RC2,Stat_2,September,10,2016,US-287 and Oxford Rd_Longmont_CO,40.1162329,-105.102621,B,PD_0288
+2016789,Philip Hasan,61,Male,RC1,Stat_2,September,18,2016,"1000 Florida Ave, Akron_Akron_OH",41.042111,-81.563232,B,PD_0622
+2016790,Tommy Seneca,54,Male,RC2,Stat_2,August,11,2016,LA-77_Plaquemine_LA,30.2960746,-91.2402211,B,PD_1157
+2016791,Jeremy Swenson,30,Male,RC2,Stat_4,September,19,2016,_Logan_UT,,,B,PD_1158
+2016792,Michelle Miller,46,Female,RC2,Stat_2,September,19,2016,23900 Spring Dane Dr_Spring_TX,30.0671236,-95.3776789,B,PD_1159
+2016793,Joshua Scott,22,Male,RC2,Stat_2,September,20,2016,300 SW Abacus Ave_Port St Lucie_FL,27.2067755,-80.3911465,B,PD_1160
+2016794,Charles Dove,35,Male,RC2,Stat_7,September,20,2016,US-641_Decaturville_TN,35.5901462,-88.127109,B,PD_1161
+2016795,Michael Goodale,23,Male,RC2,Stat_2,September,20,2016,350 Trolley Line Blvd_Mashantucket_CT,41.4739246,-71.9612122,B,PD_1162
+2016796,Keith Scott,43,Male,RC1,Stat_8,September,20,2016,9400 Lexington Cir_Charlotte_NC,35.29573,-80.726731,B,PD_0129
+2016797,Sandy Duke,43,Male,RC2,Stat_2,September,20,2016,Dickerson Pike and Dold St_shville_TN,36.2114944,-86.7652462,B,PD_0521
+2016798,Thomas Tucker Jr,49,Male,RC2,Stat_7,September,20,2016,Huron St and W 121st Ave_Westminster_CO,39.9159637,-104.9968652,B,PD_0945
+2016799,Austin Baier,23,Male,RC2,Stat_7,September,21,2016,Cherry St and 1st St_Louisville_NE,41.0021841,-96.1633034,B,PD_1163
+2016800,Jesse Attaway,41,Male,RC2,Stat_1,September,23,2016,Piedra Way and Mohawk Way_Fair Oaks_CA,38.6650749,-121.227184,B,PD_0664
+2016801,Oddis Colvin Jr,33,Male,RC1,Stat_7,September,23,2016,Old Court Rd_Pikesville_MD,39.3806313,-76.7161733,B,PD_0082
+2016802,Christopher Contreras,30,Male,RC3,Stat_2,September,23,2016,700 Humboldt St_San Antonio_TX,29.3726077,-98.5340909,B,PD_0188
+2016803,Cody Lafont,25,Male,RC2,Stat_2,September,25,2016,Congress St_Claremont_NH,43.385526,-72.3561522,B,PD_1164
+2016804,Leeland White,32,Male,RC2,Stat_2,September,26,2016,22000 Colonel Glenn Rd_Little Rock_AR,34.743576,-92.5156329,B,PD_1165
+2016805,Anthony Bauer,52,Male,RC2,Stat_2,September,26,2016,301 E 50th St_Garden City_ID,43.6443468,-116.2638396,B,PD_1166
+2016806,than DeSai,46,Male,RC2,Stat_2,September,26,2016,4400 Law St_Houston_TX,29.7245184,-95.4471679,B,PD_0047
+2016807,Jamie Lewis,48,Male,RC2,Stat_2,September,26,2016,1600 Cliff Rd E_Burnsville_MN,44.791103,-93.252149,B,PD_0895
+2016808,Tawon Boyd,21,Male,RC1,Stat_1,September,17,2016,Akin Cir_Middle River_MD,39.347639,-76.3838119,A,PD_0082
+2016809,Alfred Olango,30,Male,RC1,Stat_1,September,27,2016,800 Broadway_El Cajon_CA,32.8076934,-116.9522359,B,PD_0796
+2016810,Gary Lafon,56,Male,RC2,Stat_2,September,20,2016,County Road 3955_Hawkins_TX,32.7294549,-95.2578986,B,PD_1167
+2016811,Christopher Sowell,32,Male,RC1,Stat_7,September,28,2016,Cobbs Creek Pkwy and Webster St_Philadelphia_PA,39.9509071,-75.2492373,B,PD_0379
+2016812,Johthan Lozano-Murillo,28,Male,RC3,Stat_5,September,28,2016,1600 Fresno St_Valdosta_GA,30.8711,-83.2656,B,PD_1168
+2016813,Jeffrey Cave,53,Male,RC2,Stat_2,September,29,2016,1700 Miami Ave_Kingman_AZ,35.2125446,-114.0400549,B,PD_0179
+2016814,Jacquarius Robinson,20,Male,RC1,Stat_2,September,30,2016,1300 Knollwood Dr E_Columbus_OH,39.950788,-82.8461,B,PD_0206
+2016815,jier Salaam,18,Male,RC1,Stat_7,September,30,2016,500 N 7th St_Newark_NJ,40.7670662,-74.183977,B,PD_0570
+2016816,George Richards-Meyers,18,Male,RC1,Stat_7,September,30,2016,500 N 7th St_Newark_NJ,40.7670662,-74.183977,B,PD_0570
+2016817,Richard Parent,37,Male,RC2,Stat_2,September,30,2016,Haggerty Rd_Belleville_MI,42.1458718,-83.4412831,B,PD_0470
+2016818,Douglas Rainey,32,Male,RC1,Stat_2,September,30,2016,Links Dr_Campobello_SC,35.1128695,-82.215639,B,PD_0148
+2016819,Clayton Baker,38,Male,RC2,Stat_7,September,30,2016,400 W 2nd St_Groveton_TX,31.0566315,-95.127269,B,PD_1169
+2016820,Joshua Perry,28,Male,RC2,Stat_2,October,1,2016,6th Ave N_Hometown_WV,38.5350273,-81.8595884,B,PD_0358
+2016821,Carnell Snell Jr,18,Male,RC1,Stat_2,October,1,2016,W 107th St_Los Angeles_CA,33.9388183,-118.2959066,B,PD_0050
+2016822,Donte Jones,36,Male,RC1,Stat_7,October,2,2016,16300 Dixie Hwy_Markham_IL,41.593869,-87.666541,B,PD_1170
+2016823,Daniel Perez,16,Male,RC3,Stat_3,October,2,2016,E 48th St and Ascot Ave_Los Angeles_CA,34.0002195,-118.2499517,B,PD_0050
+2016824,Robert Dapkus,57,Male,RC2,Stat_2,October,3,2016,300 Lynn Shore Dr_Lynn_MA,42.4596403,-70.9342947,B,PD_0467
+2016825,John Fetter,49,Male,RC2,Stat_2,October,3,2016,700 N Burghley Ave_Ventnor City_NJ,39.3490734,-74.4860385,B,PD_0597
+2016827,Isaias Salgado,31,Male,RC3,Stat_4,October,4,2016,Gibsonton Dr_Riverview_FL,27.8563566,-82.3375583,B,PD_0562
+2016828,Zachary Sutton,26,Male,RC2,Stat_2,October,4,2016,Turner St and Gates Ave_Springdale_AR,36.1707466,-94.133833,B,PD_1171
+2016829,Brandon Simmons,28,Male,RC2,Stat_4,October,5,2016,2150 Stadium Dr_Boulder_CO,,,B,PD_0597
+2016830,Dean Bruning,51,Male,RC2,Stat_2,October,4,2016,_Hessel_MI,,,B,PD_1172
+2016831,John Carpentier,26,Male,RC2,Stat_2,September,27,2016,20838 N 19th Ave_Phoenix_AZ,33.6761281,-112.1003577,B,PD_0072
+2016832,Lucas Felkel,35,Male,RC2,Stat_2,October,5,2016,Cypress Gardens Rd_Moncks Corner_SC,33.0822428,-80.0055335,B,PD_0690
+2016833,Regild Thomas,35,Male,RC1,Stat_5,September,30,2016,200 E Orange Grove Blvd_Pasade_CA,34.1578324,-118.1464416,A,PD_1173
+2016834,Sadine Dixon,84,Female,RC2,Stat_1,October,2,2016,US-49_Rector_AR,36.2590232,-90.2926649,C,PD_1070
+2016835,Jose Viloria,63,Male,RC3,Stat_7,October,2,2016,1800 Lacey St_Bakersfield_CA,35.327238,-119.022528,A,PD_0197
+2016836,Joseph Schroeder,36,Male,RC2,Stat_5,October,7,2016,5328 N Stony Run Ln_Fort Wayne_IN,41.127797,-85.129775,B,PD_0403
+2016837,Larry Matthews,57,Male,RC1,Stat_4,October,7,2016,500 Colquitt St_Macon_GA,32.8125863,-83.642654,B,PD_1174
+2016838,Christopher Shackleford,28,Male,RC1,Stat_2,October,7,2016,1943 Dublin Rd_Alexandria_LA,31.3404028,-92.5143746,B,PD_0597
+2016839,Kim Jackson,53,Female,RC2,Stat_5,October,8,2016,1500 Queens Ave_Modesto_CA,37.6652905,-120.9676461,B,PD_0652
+2016840,Dylan Rogers,39,Male,RC2,Stat_6,October,8,2016,E 127 Rd and N S 381 Rd_Wetumka_OK,35.1739109,-96.230058,B,PD_1175
+2016841,Ricardo Herndez,21,Male,RC3,Stat_5,October,8,2016,3000 S 288th St_Federal Way_WA,47.3433585,-122.2964731,B,PD_1176
+2016842,Charles Antrup,62,Male,RC2,Stat_5,October,8,2016,E Washington Blvd_Fort Wayne_IN,41.0793045,-85.1095874,B,PD_0403
+2016843,Deric Brown,41,Male,RC1,Stat_2,October,9,2016,600 Walnut Ave_Syracuse_NY,43.0453294,-76.1321455,B,PD_0837
+2016844,Devan Desnoyers,26,Male,RC2,Stat_3,October,10,2016,Detroit Rd and Crocker Rd_Westlake_OH,41.4636929,-81.9510526,B,PD_1177
+2016845,Kheyanev Littledog,19,Male,RC6,Stat_2,October,10,2016,E Industrial Ave_Midland_TX,31.9989027,-102.0670531,B,PD_0384
+2016846,Kadeem Trotter,24,Male,RC1,Stat_3,September,18,2016,162-25 Liberty Ave_Jamaica_NY,40.7025162,-73.7916017,B,PD_1178
+2016847,Thomas Burns,49,Male,RC2,Stat_3,October,7,2016,1400 Longview St_Benton_AR,34.5822175,-92.5695318,B,PD_1179
+2016848,Mauricio Barron,27,Male,RC3,Stat_7,October,10,2016,I-5_Irvine_CA,33.6944227,-117.7715279,B,PD_0194
+2016849,Dennis Hunt,56,Male,RC6,Stat_2,October,10,2016,W 5th St_Lumberton_NC,34.6202592,-79.0565652,B,PD_0913
+2016850,Michael Taylor,44,Male,RC4,Stat_5,October,11,2016,Airport Way S and S Stacy St_Seattle_WA,47.5818877,-122.321406,B,PD_0477
+2016851,Dominick Musulman,30,Male,RC2,Stat_4,October,11,2016,San Jose Ave_Concord_CA,37.9720845,-122.0275417,B,PD_1180
+2016852,Luis Hoff,40,Male,RC2,Stat_2,October,10,2016,AZ Hwy 101 Loop_Phoenix_AZ,33.4454463,-111.891037,B,PD_1181
+2016853,Blaine Beason,31,Male,RC2,Stat_7,October,12,2016,Springwood Blvd_Denham Springs_LA,30.4544142,-90.9731531,B,PD_1182
+2016854,Kirk Figueroa,33,Male,RC1,Stat_2,October,12,2016,136 Gladstone St_Boston_MA,42.3893553,-71.0065298,B,PD_0225
+2016855,Matthew Brewer,22,Male,RC2,Stat_2,October,12,2016,Old Hilda Rd_Morehead_KY,38.2262051,-83.4938046,B,PD_0053
+2016856,Rex Wilson,50,Male,RC2,Stat_2,October,12,2016,215 Beltway_Las Vegas_NV,36.1982914,-115.3424147,B,PD_0456
+2016857,Shawn Pappe,46,Male,RC2,Stat_5,October,13,2016,US-199_Grants Pass_OR,42.1072435,-123.6783944,B,PD_1183
+2016858,Patrick Reddeck,38,Male,RC2,Stat_2,October,12,2016,400 Jason Ave N_Kent_WA,47.3842748,-122.2256503,B,PD_0203
+2016859,Chaz York,23,Male,RC2,Stat_4,October,14,2016,4000 Dowlen Rd_Beaumont_TX,30.1166913,-94.168544,B,PD_0874
+2016860,Sean Arlt,32,Male,RC2,Stat_4,October,16,2016,200 Chace St_Santa Cruz_CA,36.9539606,-122.0460353,B,PD_1184
+2016861,George Zapata,24,Male,RC3,Stat_2,October,14,2016,300 E Brownlee Ave_Dallas_TX,32.7113747,-96.8205873,B,PD_0103
+2016862,Daniel Murphy,38,Male,RC2,Stat_2,October,15,2016,Lee Road 851_Phenix City_AL,32.4785807,-85.1014177,B,PD_0825
+2016863,Micah Jester,26,Female,RC2,Stat_3,October,16,2016,744 W William Cannon Dr_Austin_TX,30.198358,-97.7892321,B,PD_0063
+2016864,Nicholas McWherter,26,Male,RC2,Stat_2,October,14,2016,630 Sloat Blvd_San Francisco_CA,37.7348042,-122.4788119,B,PD_0006
+2016865,Eric St Germain,39,Male,RC2,Stat_5,October,16,2016,Bluejay Dr_Holiday_FL,28.2076677,-82.7274073,B,PD_0996
+2016866,Rolando Delgado,50,Male,RC3,Stat_4,October,17,2016,NW 183rd St and NW 57th St_Miami_FL,25.9392264,-80.293906,B,PD_0266
+2016867,Darius Wimberly,28,Male,RC1,Stat_2,October,18,2016,E Empire Ave and Pavone St_Benton Harbor_MI,42.1016682,-86.4525542,B,PD_1185
+2016868,Keagan Schweikle,17,Male,RC2,Stat_2,October,17,2016,1200 River St_Benton_AR,34.5544439,-92.597252,B,PD_1179
+2016869,Salvador Reyes,42,Male,RC3,Stat_2,October,18,2016,4300 S 170th E Ave_Tulsa_OK,36.0996263,-95.7866284,B,PD_0999
+2016870,Deborah Danner,66,Female,RC1,Stat_4,October,18,2016,Pugsley Ave_Bronx_NY,40.8253532,-73.8558214,B,PD_0287
+2016871,Charles Stidham,34,Male,RC2,Stat_2,October,18,2016,1900 Brent St_Paris_KY,38.1972163,-84.2657022,B,PD_1186
+2016872,Anthony Garcia,24,Male,RC3,Stat_2,October,19,2016,3500 Virginia Blvd_Dallas_TX,32.7410016,-96.8769739,B,PD_0103
+2016873,Frank Sandor,38,Male,RC2,Stat_7,October,19,2016,36300 Euclid Ave_Willoughby_OH,41.6252195,-81.4283176,B,PD_1187
+2016874,Jacob DePetris,29,Male,RC2,Stat_2,October,20,2016,Shims Rd_Jacksonville_FL,30.4673646,-81.5830511,B,PD_0201
+2016875,Ricky Hall,46,Male,RC2,Stat_4,October,6,2016,1504 Ben Taub Loop_Houston_TX,29.7108491,-95.3942878,B,PD_0268
+2016876,Javier Munoz,28,Male,RC3,Stat_1,October,19,2016,240 Old Gibson Rd_Henderson_NV,36.0460556,-115.0275795,B,PD_1122
+2016877,William Frost Jr,58,Male,RC2,Stat_5,October,21,2016,N Utica Ave and E Admiral Pl_Tulsa_OK,36.1596546,-95.9670147,B,PD_0999
+2016878,Renee Davis,23,Female,RC6,Stat_2,October,21,2016,15800 382nd St SE_Auburn_WA,47.2588526,-122.1307939,B,PD_0300
+2016879,Junef Monzon,31,Male,RC4,Stat_6,October,22,2016,32500 Mesa Dr_Lake Elsinore_CA,33.648847,-117.2893322,B,PD_1188
+2016880,thaniel Dorough,21,Male,RC2,Stat_7,October,22,2016,6900 Old Hwy 280_Sterrett_AL,33.355192,-86.5799456,B,PD_1031
+2016881,Kenny Tomblin,38,Male,RC2,Stat_2,October,23,2016,Jr Caffee Rd_Edmonton_KY,37.0213123,-85.5835229,B,PD_0053
+2016882,Demetrius Moore,40,Male,RC1,Stat_2,October,23,2016,N Union Blvd and E Platte Ave_Colorado Springs_CO,38.8371589,-104.7944881,B,PD_1189
+2016883,Kristofer Youngquist,45,Male,RC2,Stat_3,October,24,2016,Dogwood Rd_Lanesboro_MN,43.6591108,-91.8901525,B,PD_0367
+2016884,Aaron Ballard,19,Male,RC1,Stat_2,October,24,2016,4100 E Lee Ave_St Louis_MO,38.6702396,-90.2234527,B,PD_0276
+2016885,Roy Richards,46,Male,RC1,Stat_2,October,25,2016,E 8th St and Sherman St_Little Rock_AR,34.740544,-92.2654249,B,PD_1097
+2016886,Brandon Jones,25,Male,RC2,Stat_3,October,25,2016,291 E Pulaski Hwy_Elkton_MD,39.5989683,-75.8209618,B,PD_0158
+2016887,Chelsea Porter,25,Female,RC2,Stat_3,October,25,2016,291 E Pulaski Hwy_Elkton_MD,39.5989683,-75.8209618,B,PD_0158
+2016888,Brandon Millard,37,Male,RC2,Stat_5,October,25,2016,505 Old Hwy 65_Lincoln_CA,38.8753294,-121.2964544,B,PD_0734
+2016889,Malcolm Hickson,25,Male,RC1,Stat_2,October,26,2016,1240 W Trinity Mills Rd_Carrollton_TX,32.9841027,-96.9187115,B,PD_1190
+2016890,William Cole,36,Male,RC2,Stat_7,October,26,2016,300 Edgewood Ave_Bartlesville_OK,36.7532494,-95.9441611,B,PD_1191
+2016891,Kyle Killough,32,Male,RC2,Stat_2,October,27,2016,843 Parkway Ln_Billings_MT,45.7524686,-108.551878,B,PD_0080
+2016892,Thad Hale,33,Male,RC1,Stat_2,October,27,2016,200 Rainbow Dr_San Antonio_TX,29.4925407,-98.4397374,B,PD_0188
+2016893,Edwin Maldodo,24,Male,RC3,Stat_1,October,27,2016,Hartwell Hwy_Elberton_GA,34.1801186,-82.885863,B,PD_0630
+2016894,Jason King,38,Male,RC1,Stat_2,October,28,2016,Tyler St and Date Ave_Sacramento_CA,38.6592367,-121.3551738,B,PD_0194
+2016895,Jay Holmgren,37,Male,RC2,Stat_2,October,28,2016,Highway 27_Isle_MN,46.13805,-93.4707913,B,PD_0549
+2016896,Kenneth Kennedy,34,Male,RC2,Stat_6,October,29,2016,3500 Gordon Dr_Kingman_AZ,35.2393571,-113.9924015,B,PD_1192
+2016897,Jun Wang,45,Male,RC4,Stat_5,October,28,2016,Independence Dr_North Royalton_OH,41.3260413,-81.766506,B,PD_1193
+2016898,Terrence Coleman,31,Male,RC1,Stat_8,October,30,2016,245 Shawmut Ave_Boston_MA,42.343675,-71.068331,B,PD_0225
+2016899,Jordan Gonzales,23,Male,RC3,Stat_2,October,30,2016,300 N Shoreline Blvd_Corpus Christi_TX,27.7938604,-97.3925439,B,PD_0677
+2016900,Michael Vance Jr,38,Male,RC6,Stat_2,October,30,2016,_Hammon_OK,,,B,PD_0297
+2016901,Jose Cueva,55,Male,RC3,Stat_5,October,31,2016,9425 Penfield Ave_Chatsworth_CA,34.2412716,-118.5702748,B,PD_0010
+2016902,Michelle Shirley,39,Female,RC1,Stat_6,October,31,2016,Arlington Ave and Post Ave_Torrance_CA,33.8336415,-118.3196144,B,PD_1194
+2016903,Rod Lucas,46,Male,RC2,Stat_7,October,31,2016,1755 N Gateway Blvd_Fresno_CA,36.766997,-119.7273,B,PD_0423
+2016904,Henry Simpson,76,Male,RC2,Stat_2,November,1,2016,505 S Roop St_Carson City_NV,39.1605671,-119.7610111,B,PD_1122
+2016905,Jesse Taylor,40,Male,RC2,Stat_7,November,2,2016,8880 1075 West_West Jordan_UT,40.5891892,-111.9220764,B,PD_1195
+2016906,Ferguson Laurent,23,Male,RC1,Stat_2,November,3,2016,600 E Lafayette St_Salisbury_NC,35.6679949,-80.4580013,B,PD_1196
+2016907,Dennis Kirk,64,Male,RC5,Stat_5,November,3,2016,112 N 7th St_Chambersburg_PA,39.934174,-77.6462709,B,PD_1197
+2016908,Rita King,56,Female,RC2,Stat_2,November,3,2016,Escoe Dr_Loganville_GA,33.7930381,-83.9586589,B,PD_1198
+2016909,Manuel Rosales,35,Male,RC5,Stat_2,November,4,2016,Beach Ave_Bronx_NY,40.83295,-73.866547,B,PD_0287
+2016910,Abraham Ortiz,26,Male,RC3,Stat_7,November,4,2016,366 S Palm Canyon Dr_Palm Springs_CA,33.8179159,-116.5461567,B,PD_1199
+2016911,Edward Hills,59,Male,RC2,Stat_2,November,4,2016,200361 US-101_Beaver_WA,48.0561294,-124.3485565,B,PD_1200
+2016912,Patrick Wise,34,Male,RC2,Stat_7,November,5,2016,Avalon Dr_Gladewater_TX,32.5430889,-94.955639,B,PD_1201
+2016913,James Coale,36,Male,RC2,Stat_6,November,5,2016,_Okemah_OK,,,B,PD_1202
+2016914,Joshua Beal,25,Male,RC1,Stat_2,November,5,2016,S Troy St_Chicago_IL,41.7785304,-87.701899,B,PD_0275
+2016915,John Zemola,49,Male,RC2,Stat_5,November,5,2016,5198 64th St N_St Petersburg_FL,27.8189461,-82.7247153,B,PD_0961
+2016916,Russell Elswick,56,Male,RC2,Stat_2,November,5,2016,3100 Leatherwood Rd_Clendenin_WV,38.4270987,-81.3375274,B,PD_1203
+2016917,Randy Clark Jr,43,Male,RC2,Stat_7,November,6,2016,Dave Gaskey Ln and Old Logansport Rd_Morgantown_KY,37.2283084,-86.6898314,B,PD_0886
+2016918,Christian Redwine,17,Male,RC2,Stat_7,November,6,2016,Riverchase Dr_Phenix City_AL,32.5130554,-85.0096705,B,PD_0338
+2016919,Jimmy Testa,31,Male,RC2,Stat_4,November,6,2016,High St_Leesburg_NJ,39.2525611,-74.9794838,B,PD_0282
+2016920,Joel Keen,43,Male,RC2,Stat_2,November,6,2016,209 Deans Dr_Beech Island_SC,33.461958,-81.827955,B,PD_0404
+2016921,David Contreras Jr,33,Male,RC3,Stat_7,November,6,2016,Edinger Ave and S Sullivan St_Santa A_CA,33.7272854,-117.9025178,B,PD_0149
+2016922,Joseph Newcomb,32,Male,RC2,Stat_4,November,6,2016,_Hensley_WV,,,B,PD_0226
+2016923,Darryl Chisholm,31,Male,RC1,Stat_2,November,7,2016,3100 N 9th St_Philadelphia_PA,39.999031,-75.144955,B,PD_0379
+2016924,Kenton Kobza,,Male,RC2,Stat_1,November,8,2016,US-183_Buckeye_KS,39.0713055,-99.3154818,B,PD_1204
+2016925,Juan Ramos,23,Male,RC5,Stat_2,November,8,2016,14500 E 46th Ave_Denver_CO,39.7802199,-104.7646852,B,PD_1205
+2016926,Carlos Mendez,45,Male,RC3,Stat_2,November,8,2016,500 E 4th St_Azusa_CA,34.1279887,-117.9024302,B,PD_0414
+2016927,Evan Cox,26,Male,RC2,Stat_1,November,8,2016,W Prospect Rd and Fort Ave_Ashtabula_OH,41.859909,-80.8044427,B,PD_0597
+2016928,Daniel Erickson,36,Male,RC2,Stat_2,November,9,2016,2244 W White Mountain Blvd_Lakeside_AZ,34.1601058,-109.9806715,B,PD_1181
+2016929,George Delacruz Jr,41,Male,RC3,Stat_2,November,10,2016,300 W Harris Ave_San Angelo_TX,31.4621454,-100.4427067,B,PD_1206
+2016930,Brian Gaither,24,Male,RC2,Stat_7,November,11,2016,S 9th Street and Pitkin Avenue_Grand Junction_CO,39.0643813,-108.5576832,B,PD_0341
+2016931,Andrew Depeiza,,Male,RC1,Stat_7,November,11,2016,Lakeview Pl_East Point_GA,33.6474243,-84.487899,B,PD_1207
+2016932,John Pacuicrk,53,Male,RC2,Stat_2,November,10,2016,2938 Delrose Dr N_Lakeland_FL,28.076894,-81.901266,B,PD_0615
+2016933,William Score Jr,47,Male,RC2,Stat_7,November,11,2016,_Montrose County_CO,,,B,PD_1208
+2016934,James Ritchie,40,Male,RC2,Stat_2,November,12,2016,E 5th Ave and Cordova St_Anchorage_AK,61.2175686,-149.8792139,B,PD_0105
+2016935,Daniel Lagu,21,Male,RC3,Stat_2,November,13,2016,9401 S Shartel Ave_Oklahoma City_OK,35.371128,-97.5273811,B,PD_0097
+2016936,Richard Herrera Jr,29,Male,RC3,Stat_2,November,12,2016,1300 W Calle De La Plaza_Sahuarita_AZ,31.9246955,-110.9932166,B,PD_1209
+2016937,Juan Ferndez,22,Male,RC3,Stat_2,November,13,2016,Marlborough Ave_San Diego_CA,32.7477854,-117.1057279,B,PD_0306
+2016938,Michael Sawyer,31,Male,RC2,Stat_4,November,13,2016,US-78_Ladson_SC,32.9916734,-80.1039488,A,PD_1210
+2016939,Michael Cookson,48,Male,RC5,Stat_5,November,15,2016,Ynez Rd and County Center Dr_Temecula_CA,33.52744,-117.1626344,B,PD_0056
+2016940,Rasheem Singletary,25,Male,RC1,Stat_6,November,15,2016,I-83_York_PA,39.9625845,-76.7277883,B,PD_0115
+2016941,Robert Daffern,37,Male,RC2,Stat_2,November,15,2016,800 Bay Area Blvd_Webster_TX,29.5434949,-95.1360489,B,PD_0597
+2016942,Jose Franco,37,Male,RC5,Stat_4,November,16,2016,13400 Penn St_Whittier_CA,33.9754332,-118.0326615,B,PD_1211
+2016943,Edmund Leighty Sr,56,Male,RC2,Stat_2,November,16,2016,2779 Reservoir Ln_Redding_CA,40.5665597,-122.3449225,B,PD_0786
+2016944,Jothan Young,38,Male,RC2,Stat_4,November,13,2016,Lackawan Ave_Bloomsburg_PA,41.01264,-76.407403,B,PD_1212
+2016945,Joseph Fletcher,35,Male,RC2,Stat_4,November,18,2016,Gap Creek Dr_Fort Walton Beach_FL,30.4300328,-86.6410423,B,PD_0617
+2016946,Dontrell Carter,25,Male,RC1,Stat_2,November,18,2016,_Ludowici_GA,,,B,PD_0832
+2016947,Samson Fleurant,25,Male,RC1,Stat_4,November,18,2016,600 SW Colleen Ave_Port St Lucie_FL,27.3107617,-80.3649107,B,PD_1213
+2016948,Gabriel Parker,48,Male,RC5,Stat_4,November,18,2016,N Pil Ave and W 10th St_Casa Grande_AZ,32.8827002,-111.7572979,B,PD_1214
+2016949,Darius Jones,26,Male,RC1,Stat_2,November,19,2016,2000 W 69th St_Chicago_IL,41.768704,-87.673792,B,PD_0275
+2016950,Steve Vanda,56,Male,RC5,Stat_2,November,19,2016,1900 W Monta Ave_Chickasha_OK,35.0253522,-97.9571846,B,PD_0303
+2016951,Luke Smith,15,Male,RC4,Stat_5,November,19,2016,800 Amesti Rd_Watsonville_CA,36.9656843,-121.7931329,B,PD_0455
+2016952,Erickson Brito,21,Male,RC1,Stat_4,November,19,2016,362 Sutter Ave_Brooklyn_NY,40.6673224,-73.9059041,B,PD_0287
+2016953,Adalid Flores,29,Male,RC3,Stat_7,November,19,2016,1300 N East St_Aheim_CA,33.8516481,-117.9067037,B,PD_0169
+2016954,,25,Male,RC3,Stat_2,November,20,2016,5800 Shadow Glen_San Antonio_TX,29.5101325,-98.5975335,B,PD_0188
+2016955,George Bush III,19,Male,RC1,Stat_2,November,21,2016,Smiley Ave and Leola Ave_St Louis_MO,38.6066994,-90.2994032,B,PD_0055
+2016956,Michael Giles,27,Male,RC2,Stat_5,November,21,2016,1100 N H St_Lompoc_CA,34.655553,-120.456992,B,PD_1215
+2016957,Ivory Pantallion III,36,Male,RC1,Stat_2,November,22,2016,Main St_Baytown_TX,29.7231938,-94.9715671,B,PD_0590
+2016958,Mark Sly,45,Male,RC3,Stat_2,November,22,2016,13550 S Beach Blvd_La Mirada_CA,33.908618,-117.9770593,B,PD_0010
+2016959,Frank Clark,34,Male,RC1,Stat_7,November,22,2016,Wabash St and Dayton St_Durham_NC,35.9730185,-78.8896304,B,PD_0579
+2016960,Talif Scudder,23,Male,RC1,Stat_2,November,22,2016,18th Ave and Alexander St_Newark_NJ,40.738861,-74.2278123,B,PD_0570
+2016961,Rebecka Pearce,30,Female,RC2,Stat_1,November,11,2016,1700 McLaurin Ln_Fuquay Vari_NC,35.6093656,-78.7699433,B,PD_1216
+2016962,Marco Romero,33,Male,RC3,Stat_2,November,11,2016,W Irving St and N Wilson St_Boise_ID,43.615201,-116.2345727,B,PD_0123
+2016963,William Beavers,43,Male,RC2,Stat_5,November,23,2016,4280 Mallory Dr_St Petersburg_FL,27.8179774,-82.6915344,B,PD_0961
+2016964,David Thelen,43,Male,RC2,Stat_5,November,23,2016,314 Beeline Rd_Holland_MI,42.80694,-86.1028969,B,PD_1217
+2016965,Kajuan Raye,19,Male,RC1,Stat_1,November,23,2016,6500 S Marshfield Ave_Chicago_IL,41.775683,-87.665705,B,PD_0275
+2016966,Don White,45,Male,RC5,Stat_5,November,24,2016,238 Summar Dr_Jackson_TN,35.6368047,-88.8335671,B,PD_1047
+2016967,Cloetha Mitchell,37,Male,RC1,Stat_2,November,25,2016,W Harrison St and Central Park Avenue_Chicago_IL,41.8735701,-87.7156559,B,PD_0275
+2016968,Carlos Valencia,26,Male,RC3,Stat_7,November,25,2016,S 9th Ave_Tucson_AZ,32.2120144,-110.9731446,B,PD_1218
+2016969,Jerome Harmon,23,Male,RC5,Stat_2,November,25,2016,Old Airport Rd_Hattiesburg_MS,31.2773612,-89.2745725,B,PD_1219
+2016970,Derek Adame,20,Male,RC3,Stat_7,November,26,2016,N 177th Ave and W Voltaire St_Surprise_AZ,33.6079664,-112.4400063,B,PD_1220
+2016971,Norman Strobel,59,Male,RC2,Stat_2,November,27,2016,Songo School Rd_ples_ME,43.9480579,-70.5701165,B,PD_1221
+2016972,Terrell Walker,48,Male,RC1,Stat_2,November,27,2016,I-10_Baton Rouge_LA,30.423687,-91.145301,B,PD_0597
+2016973,Walter Echols,48,Male,RC2,Stat_4,November,27,2016,395 N Kansas 7 Hwy_Olathe_KS,38.8861522,-94.837935,B,PD_1222
+2016974,Richard Grimes,33,Male,RC1,Stat_2,November,27,2016,4500 W Washington Blvd_Chicago_IL,41.882214,-87.738113,B,PD_0275
+2016975,Abdul Artan,18,Male,RC1,Stat_5,November,28,2016,College Rd_Columbus_OH,40.0013438,-83.0104573,B,PD_1223
+2016976,Pablo Cartage,23,Male,RC3,Stat_7,November,28,2016,Maple Ave and E 27th St_Los Angeles_CA,34.0225914,-118.2659818,B,PD_0050
+2016977,Irecas Valentine,41,Male,RC1,Stat_8,November,28,2016,1100 15th St NE_Hickory_NC,35.7427614,-81.3068669,B,PD_1224
+2016978,Thomas Binkley,66,Male,RC2,Stat_1,October,4,2016,500 N Mariposa St_Burbank_CA,34.176044,-118.322514,D,PD_1225
+2016979,Kristofer Talancon,30,Male,RC3,Stat_7,October,15,2016,1200 Coachman Dr_Sparks_NV,39.543917,-119.7240254,A,PD_1080
+2016980,Garrett Schmidt,33,Male,RC2,Stat_1,October,24,2016,Morris Ave_Modesto_CA,37.651216,-121.0053045,A,PD_0652
+2016981,Keen Bradley,21,Male,RC1,Stat_2,November,1,2016,3500 W Benjamin Holt Dr_Stockton_CA,38.005401,-121.3588281,B,PD_1226
+2016982,Wilton Henry,59,Male,RC2,Stat_2,November,2,2016,1367 Lousia Hwy 182_Houma_LA,29.5765134,-90.7322958,B,PD_1227
+2016983,Ariel Galarza,49,Male,RC5,Stat_4,November,2,2016,Mayflower Ave_Bronx_NY,40.8452507,-73.8345507,D,PD_0287
+2016984,Ritchie Harbison,62,Male,RC1,Stat_1,November,8,2016,Howard Gap Rd_Hendersonville_NC,35.3669733,-82.4516837,D,PD_0468
+2016985,Michael McInnis,41,Male,RC2,Stat_7,November,29,2016,451 Lynnway_Lynn_MA,42.456459,-70.954993,B,PD_0467
+2016986,Alexander Partain,31,Male,RC2,Stat_7,November,29,2016,Bascomb Dr_Iva_SC,34.3426824,-82.6474919,B,PD_1096
+2016987,Bradley King,29,Male,RC2,Stat_5,November,29,2016,1200 Sheffield Dr_Avon_IN,39.7800581,-86.3976479,B,PD_1228
+2016988,Toby Cummins,55,Male,RC2,Stat_4,November,29,2016,1000 S Friendswood Dr_Friendswood_TX,29.521769,-95.1925145,B,PD_1229
+2016989,David Crosby-Dowdy,25,Male,RC1,Stat_2,November,30,2016,Van Brunt Blvd and E 8 St_Kansas City_MO,39.1026374,-94.5259137,B,PD_0458
+2016990,Bruce Johnson II,38,Male,RC1,Stat_7,December,1,2016,East E Street and E 52nd St_Tacoma_WA,47.2099992,-122.4245575,B,PD_1127
+2016991,Jose Gomez,27,Male,RC3,Stat_2,December,1,2016,4750 S Campbell Ave_Tucson_AZ,32.165869,-110.944272,B,PD_0153
+2016992,Quinton Phillips,83,Male,RC2,Stat_2,December,1,2016,2200 Morgan Rd_Dover_AR,35.364862,-93.0787548,B,PD_1230
+2016993,Dylan Dalzell,22,Male,RC2,Stat_4,December,2,2016,7208 Shelbyville Rd_Simpsonville_KY,38.2215593,-85.3577812,B,PD_1031
+2016994,Derek Scott,33,Male,RC2,Stat_2,December,2,2016,Woodmont Dr_Tuscumbia_AL,34.6680108,-87.6978277,B,PD_1231
+2016995,DeAngelo Webb,35,Male,RC1,Stat_4,July,13,2016,4700 N Western Ave_Oklahoma City_OK,35.5186859,-97.5295117,A,PD_0097
+2016996,Josh Dunne,36,Male,RC2,Stat_7,December,2,2016,2121 S Triviz Dr_Las Cruces_NM,32.2873671,-106.7414959,B,PD_1117
+2016997,Isreal Flores,38,Male,RC3,Stat_2,December,3,2016,N Arnoult Rd and 46th St_Metairie_LA,29.985441,-90.1613759,B,PD_0207
+2016998,Norman Gary,29,Male,RC1,Stat_7,December,4,2016,1800 Decamp Ave_Elkhart_IN,41.6681938,-85.9596563,B,PD_1232
+2016999,Saif Alameri,26,Male,RC7,Stat_1,December,4,2016,Aurora St_Hudson_OH,41.2458792,-81.4317697,B,PD_1233
+20161000,Westley Daum,47,Male,RC2,Stat_2,December,6,2016,600 Lantern Ln_Orange City_FL,28.947728,-81.305953,B,PD_1234
+20161001,Steven Liffel,52,Male,RC2,Stat_2,December,6,2016,SE 148th Ave and E Burnside Street_Portland_OR,45.5223864,-122.5106559,B,PD_0214
+20161002,Richard Jones,55,Male,RC2,Stat_2,December,6,2016,3500 Ridgewood Dr_Hutchinson_KS,38.0927,-97.9095,B,PD_0419
+20161003,Wayne Dorsey,49,Male,RC2,Stat_4,December,6,2016,4000 Picciola Rd_Fruitland Park_FL,28.8573357,-81.8881775,B,PD_0296
+20161004,Eddie Collins,42,Male,RC2,Stat_2,October,7,2016,101 Florence Blvd_Killen_AL,34.85257,-87.5673796,B,PD_1235
+20161005,Ashley Sides,31,Female,RC2,Stat_7,October,31,2016,799 Arlington Rd_Brookville_OH,39.8454217,-84.4252994,B,PD_1236
+20161006,Redrick Batiste,37,Male,RC1,Stat_2,December,7,2016,16250 Imperial Valley Dr_Houston_TX,29.9357715,-95.3978997,B,PD_0047
+20161007,Keelan Murray,37,Male,RC2,Stat_7,December,7,2016,1500 Commerce St_Dallas_TX,32.779799,-96.798303,B,PD_1237
+20161008,Mark Hicks,31,Male,RC1,Stat_5,December,7,2016,800 Bedrock Dr_Fayetteville_NC,35.088732,-78.986915,B,PD_0964
+20161009,Jacob Stevens,18,Male,RC2,Stat_2,November,20,2016,US-169 and NW Vivion Rd_Kansas City_MO,,,B,PD_1238
+20161010,Jason Stringer,35,Male,RC1,Stat_6,November,28,2016,1511 Camp Jackson Rd_Cahokia_IL,38.556049,-90.1663198,B,PD_1239
+20161011,Joseph Turner Jr,58,Male,RC2,Stat_2,December,2,2016,1323 Military Rd_Benton_AR,34.576512,-92.576555,B,PD_1179
+20161012,Daniel Landeros,41,Male,RC3,Stat_1,November,30,2016,Elk Grove Blvd and Ginther Dr_Elk Grove_CA,38.4090693,-121.4139714,A,PD_1240
+20161013,Bruce Johnson,39,Male,RC2,Stat_1,November,16,2016,MacKenzie Dr_St Joseph_MO,39.715821,-94.8107809,D,PD_1241
+20161014,Jackie Weems Jr,44,Male,RC2,Stat_1,November,12,2016,871 Old Industrial Blvd_McDonough_GA,33.4283728,-84.1782235,A,PD_1242
+20161015,Elijah Cobb,17,Male,RC5,Stat_2,November,22,2016,1501 Research Forest Dr_Shendoah_TX,30.176596,-95.4582818,B,PD_0875
+20161016,Greta Kurian,22,Female,RC2,Stat_1,November,21,2016,1000 Park Ave_Long Beach_CA,33.7789824,-118.1397635,B,PD_0025
+20161017,Sarah Palmer,35,Female,RC2,Stat_1,November,21,2016,300 N St_Hoquiam_WA,46.9775287,-123.8945964,A,PD_1243
+20161018,Daniel Riedmann,36,Male,RC2,Stat_7,December,7,2016,Myrtle St and Tri View Ave_Sioux City_IA,42.4939569,-96.4224101,B,PD_1244
+20161019,,,Male,RC2,Stat_2,December,8,2016,200 N Arbor Ridge Dr_Allen_TX,33.101526,-96.623363,B,PD_1245
+20161020,Scott MacIntosh,35,Male,RC2,Stat_2,December,9,2016,500 Apple Blossom Rd_Easton_PA,40.709052,-75.224857,B,PD_1246
+20161021,Brent Quinn,43,Male,RC2,Stat_2,December,9,2016,Bridgeport Way_Leland_NC,34.2615753,-78.0755161,B,PD_1247
+20161022,Stephen Whitney,30,Male,RC4,Stat_6,December,9,2016,Highway 11_Keaau_HI,19.6222202,-155.0411207,B,PD_0156
+20161023,Samson Varner,36,Male,RC2,Stat_5,December,10,2016,800 Heatherwood Dr_Greenwood_IN,39.599516,-86.127014,B,PD_1020
+20161024,Waltki Williams,35,Male,RC1,Stat_2,December,10,2016,N Guigrd Dr and Miller Rd_Sumter_SC,33.9328519,-80.369297,B,PD_1248
+20161025,Timothy Case,53,Male,RC2,Stat_5,December,11,2016,2222 N Lincoln Ave_York_NE,40.882476,-97.592109,B,PD_0653
+20161026,Randy Cumberledge,39,Male,RC2,Stat_6,December,11,2016,32 Tygart Valley Mall_Fairmont_WV,39.4250843,-80.191068,B,PD_0597
+20161027,Francisco Ser,73,Male,RC3,Stat_1,December,12,2016,7900 Silver Birch Ave_Bakersfield_CA,35.3013883,-119.0900927,B,PD_0197
+20161028,Rainer Smith,31,Male,RC2,Stat_2,December,12,2016,6750 Georgia Hwy 42_Culloden_GA,32.870916,-83.9942626,B,PD_1249
+20161029,Kenneth Robledo,28,Male,RC5,Stat_2,December,12,2016,1300 Hellerman St_Philadelphia_PA,40.0424331,-75.079776,B,PD_0832
+20161030,Gary Herd Jr,24,Male,RC2,Stat_2,December,11,2016,100 E Robie St_Medicine Lodge_KS,37.2921966,-98.5791733,B,PD_1250
+20161031,Amber Lewis,44,Female,RC2,Stat_3,December,11,2016,1700 Alta Vista Rd_Bullhead City_AZ,35.109397,-114.5926727,B,PD_1251
+20161032,Jose Vallarta,30,Male,RC3,Stat_5,December,11,2016,2700 Norton St_Laredo_TX,27.4703769,-99.4684182,B,PD_0116
+20161033,Earl Eubanks Jr,32,Male,RC1,Stat_2,December,13,2016,Cherry St_Hampton_GA,33.3875087,-84.2823921,B,PD_0969
+20161034,Lavar Douglas,18,Male,RC1,Stat_2,December,13,2016,2500 W North Ave_Baltimore_MD,39.3100262,-76.6587548,B,PD_1252
+20161035,Robert Hess,61,Male,RC2,Stat_2,December,15,2016,15600 Windrush Dr_Hacienda Heights_CA,33.9789661,-117.9760915,B,PD_0010
+20161036,Jeremiah Anderson,36,Male,RC2,Stat_2,December,16,2016,321 NE Kings Valley Hwy_Dallas_OR,44.9315409,-123.3067058,B,PD_0103
+20161037,Chassady LeClair,44,Male,RC6,Stat_7,December,17,2016,3900 Grand Ave_Everett_WA,47.9658866,-122.2135984,B,PD_1253
+20161038,Jimmy Lawson,48,Male,RC2,Stat_5,December,17,2016,9591 Osborn Rd_Arlington_TN,35.318868,-89.748924,B,PD_1031
+20161039,Rold Massengale,72,Male,RC2,Stat_2,December,18,2016,4500 W 8th St_Tulsa_OK,36.1466057,-96.0451028,B,PD_0999
+20161040,Paul Kolar,37,Male,RC2,Stat_2,December,18,2016,3000 NW 289th St_Ridgefield_WA,45.8302138,-122.7028233,B,PD_0890
+20161041,Ryan Joseph,20,Male,RC1,Stat_2,December,18,2016,S Western Ave and W 60th Pl_Los Angeles_CA,33.9850325,-118.308941,B,PD_0050
+20161042,Roy Minton,52,Male,RC2,Stat_7,December,19,2016,1200 Dudley Shoals Rd_Granite Falls_NC,35.8433626,-81.4038465,B,PD_1254
+20161043,,,Male,RC5,Stat_5,December,20,2016,500 N Imperial Ave_Brawley_CA,32.9830646,-115.5349554,B,PD_1255
+20161044,Martin Gomez,46,Male,RC5,Stat_5,December,20,2016,200 E Emil St_Pharr_TX,26.2087286,-98.1793178,B,PD_1256
+20161045,Antonio Gonzalez,34,Male,RC3,Stat_2,April,26,2016,18 Melrose St_Lawrence_MA,42.7001143,-71.1725598,B,PD_1257
+20161046,Edmund Studdard,46,Male,RC2,Stat_5,July,7,2016,1175 Big Orange Rd_Cordova_TN,35.157502,-89.745593,B,PD_1031
+20161047,Nick Hamilton,31,Male,RC5,Stat_2,December,20,2016,Girard St and Sharose Dr_Hemet_CA,33.7309393,-116.9542204,B,PD_0743
+20161048,Ian King,31,Male,RC3,Stat_4,December,21,2016,300 W Grand Ave_Ponca City_OK,36.7034524,-97.0869173,B,PD_1068
+20161049,Colton Calaway,25,Male,RC2,Stat_2,December,21,2016,400 Iroquois Trail_Burns Flat_OK,35.3608274,-99.176632,B,PD_1258
+20161050,William Newman,46,Male,RC2,Stat_6,December,21,2016,3100 US-35_Knox_IN,41.257449,-86.620686,B,PD_1259
+20161051,Benjamin Ortiz,25,Male,RC2,Stat_2,December,21,2016,800 S School Ave_Fayetteville_AR,36.0542478,-94.1640147,B,PD_0002
+20161052,Matthew Richardson,27,Male,RC2,Stat_2,December,21,2016,Martha Alleyn Dr_Saraland_AL,30.8354702,-88.0973162,B,PD_1260
+20161053,Anthony Eddington,24,Male,RC1,Stat_2,December,21,2016,600 W College Ave_Coalinga_CA,36.1446817,-120.3711444,B,PD_0423
+20161054,Luis Ambrosio-Aguilar,30,Male,RC3,Stat_5,December,21,2016,2300 Waterloo Rd_Stockton_CA,37.9744558,-121.2652722,B,PD_1226
+20161055,Raymond Salaiz,38,Male,RC3,Stat_7,December,21,2016,400 Vine St_Reno_NV,39.527778,-119.8254047,B,PD_0726
+20161056,Terrence Thomas Jr,19,Male,RC1,Stat_2,December,22,2016,4100 Byers St_Capitol Heights_MD,38.867588,-76.9369959,B,PD_0543
+20161057,Stanley Eversole,55,Male,RC5,Stat_4,December,22,2016,252 Whisper Lake Rd_Palm Harbor_FL,28.0657086,-82.7700515,B,PD_0961
+20161058,Jose Sanchez,30,Male,RC3,Stat_1,December,23,2016,Fieldcrest Street and Esto Avenue_El Monte_CA,34.0874113,-118.0391647,B,PD_0605
+20161059,Michael Jacques,31,Male,RC2,Stat_7,December,23,2016,NW Bond St and NW Franklin Ave_Bend_OR,44.057433,-121.3139988,B,PD_1261
+20161060,,,Male,RC5,Stat_2,December,24,2016,Wetter St_Gadsden_AL,34.0217243,-86.0186563,B,PD_1262
+20161061,Miriam Savino,53,Female,RC2,Stat_5,December,24,2016,7342 Hastings Rd_Lake Wales_FL,28.0061709,-81.5678374,B,PD_0615
+20161062,Zhonghua Li,48,Male,RC4,Stat_4,December,24,2016,3400 Greenglade Ave_Pico Rivera_CA,34.0183422,-118.0635066,B,PD_0010
+20161063,Michael Altice,61,Male,RC2,Stat_2,December,25,2016,Calendula Ave and Cosmos Ave_Middleburg_FL,30.0478922,-81.9246508,B,PD_1070
+20161064,Gerald Hall,29,Male,RC1,Stat_5,December,25,2016,3200 Walnut St NE_Washington_DC,38.930812,-76.962802,B,PD_0671
+20161065,Joseph Garcia,33,Male,RC5,Stat_2,December,25,2016,Jamestown Loop_Batesville_AR,35.6722924,-91.7267982,B,PD_0597
+20161066,James Tylka,30,Male,RC2,Stat_2,December,25,2016,Hwy 99W_King City_OR,45.4057895,-122.7963072,B,PD_0364
+20161067,Dustin Kirk,35,Male,RC2,Stat_2,December,27,2016,13000 Brookview Dr Cir_Grass Valley_CA,39.1826214,-121.0180053,B,PD_1263
+20161068,,,Female,RC2,Stat_2,December,27,2016,2400 County Rd 90_Pearland_TX,29.5533191,-95.3675856,B,PD_1264
+20161069,Codey Hardman,26,Male,RC2,Stat_3,December,20,2016,_Stonewood_WV,,,B,PD_1265
+20161070,Alfonso Lopez,41,Male,RC3,Stat_5,December,27,2016,2208 Harlem Ave_North Riverside_IL,41.84874,-87.8061944,B,PD_1266
+20161071,Jake Childers,36,Male,RC2,Stat_2,December,27,2016,FM791_Campbellton_TX,28.7073469,-98.3529267,B,PD_0539
+20161072,David Carver,34,Male,RC2,Stat_4,December,27,2016,3001 W Hwy 146_La Grange_KY,38.4271326,-85.343282,B,PD_1267
+20161073,Christopher Tucker,28,Male,RC2,Stat_7,December,28,2016,1100 Weaver Farm Ln_Spring Hill_TN,35.709287,-86.916101,B,PD_1268
+20161074,James Rich II,52,Male,RC5,Stat_2,December,29,2016,200 Edmore Rd_Chestertown_MD,39.2117872,-76.0285712,B,PD_1269
+20161075,Steven Ward,20,Male,RC2,Stat_5,December,7,2016,Bethel Ridge Rd_Avella_PA,40.3141769,-80.4919482,B,PD_0115
+20161076,,,Male,RC5,Stat_2,December,27,2016,_Kyle_SD,,,B,PD_1270
+20161077,Fidel Barrios,33,Male,RC3,Stat_2,December,17,2016,900 S La Verne Ave_East Los Angeles_CA,34.0215187,-118.1626182,B,PD_0010
+20161078,Jesse DeBusk,38,Male,RC2,Stat_1,December,24,2016,612 Jameson St_Weatherford_TX,32.7602582,-97.7879049,A,PD_0846
+20161079,Marlon Lewis,39,Male,RC1,Stat_1,December,15,2016,Dewey St and Mayo St_Badin_NC,35.410511,-80.1240559,D,PD_1271
+20161080,David Winkler,44,Male,RC2,Stat_6,December,9,2016,Chestua Rd_Madisonville_TN,35.4765819,-84.4162407,B,PD_0675
+20161081,Norman Elling,86,Male,RC2,Stat_1,November,14,2016,Pendleton Pike and N Mitthoeffer Road_Indiapolis_IN,39.8534472,-85.9915043,C,PD_1272
+20161082,Selma Elling,87,Female,RC2,Stat_1,November,14,2016,Pendleton Pike and N Mitthoeffer Road_Indiapolis_IN,39.8534472,-85.9915043,C,PD_1272
+20161083,Michael Shriver,39,Male,RC2,Stat_1,November,1,2016,1501 W Randolph Ave_Enid_OK,36.397563,-97.896508,A,PD_1273
+20161086,Michael Damore,28,Male,RC2,Stat_1,July,1,2016,Interstate 90_Portage_IN,41.5802487,-87.1759861,C,PD_0587
+20161087,,,Male,RC5,Stat_5,December,30,2016,E Northern Ave_Phoenix_AZ,33.5531392,-112.0537013,B,PD_0072
+20161088,Jamal Rollins,21,Male,RC1,Stat_8,December,30,2016,10100 W Indigo St_Miami_FL,25.604854,-80.356059,B,PD_0266
+20161089,,,Male,RC5,Stat_5,December,31,2016,13000 Compton Rd_Loxahatchee Groves_FL,26.7087658,-80.2486348,B,PD_0636
+20161090,Jason Robison,32,Male,RC2,Stat_7,December,31,2016,_Hesston_PA,,,B,PD_0115
