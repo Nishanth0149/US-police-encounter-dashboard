@@ -42,7 +42,7 @@ This project analyzes police encounter data from the United States for the years
 ## 👨‍💻 Author
 
 **Kandukuri Venkat Nishanth Reddy**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/kandukuri-venkat-nishanth-reddy)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nishanth-reddy-285955221/)
 
 ---
 
